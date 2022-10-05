@@ -1,0 +1,841 @@
+#EXTM3U
+TeamG Store Canales PREMIUM 
+
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",LATINA sd
+http://209.45.95.18:8000/play/a02y
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",LATINA HD
+http://181.65.154.170:8000/play/a05a/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",AMERICA TV sd
+http://209.45.95.18:8000/play/a03c
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",AMERICA TV HD
+http://181.65.154.170:8000/play/a059/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",AMERICA TV HD op2
+http://8.243.127.178:8000/play/a010
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",MOVISTAR DEPORTED HD
+http://181.65.154.170:8000/play/a052/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",PANAMERICANA
+http://209.45.95.18:8000/play/a030
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",TV PERU SD
+http://209.45.95.18:8000/play/a034
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",ATV
+http://190.239.25.140:8000/play/a02h/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",WILLAX
+http://181.65.154.170:8000/play/a02c/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",K9 FERREÑAFE
+http://191.97.60.193:10001/play/a00o/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",EXITOSA TV
+http://191.97.60.193:10001/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",CTV NOTICIAS
+http://181.65.154.170:8000/play/a080/index.m3u8
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/3617319629/1ed867ab5e0cd767be32666dc8bf8d64.jpeg" group-title="DEPORTES",GOL PERU HD
+http://181.65.154.170:8000/play/a05b/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",Lolly Kids hd
+http://209.45.95.18:8000/play/a071
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NOVELAS",CANAL DE ESTRELLAS HD
+http://181.65.154.170:8000/play/a07s/index.m3u8	
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NOVELAS",CANAL DE ESTRELLAS SD
+Http://190.61.102.67:31589/play/a00g/index.m3u8	
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NOVELAS",TLNOVELAS HD
+http://181.65.154.170:8000/play/a081/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="VARIADO",TELEMUNDO INTERNACIONAL
+http://181.78.22.214:8000/play/a01t
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="VARIADO",UNIVISION
+http://186.3.216.78:9955/play/a142/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="VARIADO",CARACOL HD 
+http://186.3.216.78:9955/play/a104/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NOVELAS",PASIONES HD
+http://181.65.154.170:8000/play/a03c/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NOVELAS",KANAL D DRAMA HD
+http://209.45.95.18:8000/play/a053
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NOVELAS",TELEMUNDO NOVELAS 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NOVELAS",BADASS NOVELAS 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NOVELAS",NOVELAS CON LA ABUELA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NOVELAS",NOVELAS DEL ROMANCE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84db2db3851800077c871e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="VARIADO",ATRES SERIES HD
+http://181.65.154.170:8000/play/a03l/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NOVELAS",VeneVision 
+https://vcp.myplaytv.com/canali/canali/playlist.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NOVELAS",CANAL I (VEN)
+https://vcp.myplaytv.com:443/coll/coll/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="VARIADO",NTV 
+https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",TNT HD 
+http://181.65.154.170:8000/play/a03f/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",TNT HD OP2
+http://186.3.216.78:9955/play/a0y9/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",TNTSERIES HD
+http://181.65.154.170:8000/play/a071/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",CINEMAX HD
+http://181.65.154.170:8000/play/a03m/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",SONY HD
+http://181.65.154.170:8000/play/a04n/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",SPACE HD
+http://181.65.154.170:8000/play/a04q/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",AMC HD
+http://181.65.154.170:8000/play/a079/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",STUDIO UNIVERSAL HD
+http://181.65.154.170:8000/play/a07f/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",Universal sd
+http://190.61.102.67:31589/play/a03d/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",UNIVERSAL HD
+http://181.65.154.170:8000/play/a06w/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",UNIVERSAL CINEMA HD
+http://186.3.216.78:9955/play/a144/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",ComedyCentral SD
+http://190.61.102.67:31589/play/a04a/index.m3u
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",ComedyCentral HD
+http://186.3.216.78:9955/play/a124/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",FX sd
+http://190.61.102.67:31589/play/a05z/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",FX HD 
+http://181.65.154.170:8000/play/a072/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",CINELATINO
+http://190.61.102.67:31589/play/a05v/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",TVA                        https://59ce1298bfb98.streamlock.net/tvaire/tvaire/playlist.m3u8                                                                                                                                    
+                                                                                                                                 
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",WARNER CHANEL SD
+http://190.61.102.67:31589/play/a01f/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",WARNER CHANEL HD
+http://181.65.154.170:8000/play/a04o/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",AXN HD                                       
+http://181.65.154.170:8000/play/a04p/index.m3u8
+                                                                                                                                 
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",AXN SD
+http://190.61.102.67:31589/play/a05y/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",AXN SD o2
+http://181.78.22.214:8000/play/a01k
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",TBS
+http://190.61.102.67:31589/play/a00o/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",GOLDEN EDGE HD
+http://186.3.216.78:9955/play/a134/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",GOLDEN PLUS HD
+http://181.65.154.170:8000/play/a053/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",GOLDEN PREMIERE HD
+http://186.3.216.78:9955/play/a11z/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",GOLDEN PREMIERE 2 HD
+http://186.3.216.78:9955/play/a120/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",CINECANAL HD
+http://181.65.154.170:8000/play/a078/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",PARAMOUNT NETWORK
+http://181.65.154.170:8000/play/a07e/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",STAR CHANEL HD
+http://181.65.154.170:8000/play/a07p/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",HBO
+http://181.78.22.214:8000/play/a01h
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",HBO HD
+http://186.3.216.78:9955/play/a12y/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",HBO 2 HD
+http://181.65.154.170:8000/play/a07i/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",HBO EXTREME HD
+http://209.45.95.18:8000/play/a07c
+
+                                                                                                                                 
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",HBO POP
+http://186.3.216.78:9955/play/a130/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",HBO SIGNATURE
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/117874
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",HBO MUNDI HD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/47868
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",HBO FAMILY HD
+http://181.65.154.170:8000/play/a07x/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",FILM & ART
+http://45.228.232.204:16000/play/a04b/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",Uno
+http://190.61.102.67:31589/play/a04p/index.m3u8
+
+  
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",MVSTV
+http://190.61.102.67:31589/play/a03b/index.m3u8
+                                                                                                          
+                                                                                                                                 
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",MULTIpremiere
+http://190.61.102.67:31589/play/a01e/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",MTV HITS HD
+http://209.45.95.18:8000/play/a07d
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",CartoonNetwork SD
+http://190.61.102.67:31589/play/a03k/index.m3u8 
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",CartoonNetwork HD
+http://181.65.154.170:8000/play/a07d/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",Discovery kids SD
+http://190.61.102.67:31589/play/a015/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",Discovery kids HD 
+http://181.65.154.170:8000/play/a06t/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",Discovery kids HD op2
+http://179.1.64.210:8090/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",Disney 
+http://179.1.64.210:8090/play/a006/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",Disney HD
+http://181.65.154.170:8000/play/a03d/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",NICKELODEON
+http://190.61.102.67:31589/play/a014/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",NICK HD
+http://181.65.154.170:8000/play/a04w/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",NICK JR
+http://209.45.95.18:8000/play/a02j
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",NICKELODEON op2
+http://209.45.95.18:8000/play/a03v
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",Baby TV HD
+http://45.228.232.204:16000/play/a035/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",DISNEY JR sd
+http://179.1.64.210:8090/play/a02o/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",DISNEY JR HD
+http://181.65.154.170:8000/play/a03i/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",DISNEY JR SD
+http://190.61.102.67:31589/play/a03j/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NOTICIAS",CNN ESPAÑOL                   
+http://181.78.22.214:8000/play/a00h
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",LOVE NATURE HD
+http://181.65.154.170:8000/play/a07o/index.m3u8	
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",DISCOVERY HD
+http://181.65.154.170:8000/play/a07u/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",H&H DISCOVERY SD
+http://190.61.102.67:31589/play/a03g/index.m3u8                                                                                                     
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",H&H DISCOVERY HD
+http://181.65.154.170:8000/play/a05d/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",NATGEO HD
+http://181.65.154.170:8000/play/a076/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",NATGEO HD op2
+http://181.65.154.170:8000/play/a076/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",Discovery Theater
+http://181.65.154.170:8000/play/a06v/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",Discovery World
+http://179.1.64.210:8090/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",Animal Planet SD
+http://181.78.22.214:8000/play/a00v
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",Animal Planet HD
+http://181.65.154.170:8000/play/a07k/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",TRUTV
+http://179.1.64.210:8090/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",UNICANAL
+http://45.55.127.106/live/unicanal_mid.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="Documentales",History SD
+http://190.61.102.67:31589/play/a017/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="Documentales",History CHANEL HD
+http://181.65.154.170:8000/play/a04l/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="Documentales",History HD
+http://181.65.154.170:8000/play/a07w/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",A&E sd
+http://190.61.102.67:31589/play/a03f/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",A&E HD
+http://186.3.216.78:9955/play/a10i/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",A&E MUNDO
+http://181.78.22.214:8000/play/a011
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",Investigation Discovery
+http://186.3.216.78:9955/play/a143/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",TLC
+http://190.61.102.67:31589/play/a03h/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",TELEMAX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?NACIONALES.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",Lifetime
+http://190.61.102.67:31589/play/a01i/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",E! 
+http://190.61.102.67:31589/play/a03i/index.m3u8                                                                                                          
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/" group-title="MUSICA",TELE HIT MUSIC
+http://181.65.154.170:8000/play/a054/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="DEPORTES",DIRECTV SPORTS
+https://2200.janjua.pw:8088/adfree/directvhd/playlist.m3u8?vidictid=192658076839&id=108092&pk=eb97ebd50bd6a8815183b06b15ace039cd964a22d0e9822a7eaaa277e675fb31
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="DEPORTES",DIRECTV SPORTS lat
+https://2200.janjua.pw:8088/adfree/directvhd/playlist.m3u8?vidictid=192687234323&id=108092&pk=eb97ebd50bd6a8815183b06b15ace039cd964a22d0e9822a7eaaa277e675fb31
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="DEPORTES",ESPN SD
+http://181.78.22.214:8000/play/a010
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="DEPORTES",ESPN HD
+http://186.3.216.78:9955/play/a13x/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="DEPORTES",ESPN 2
+http://181.78.22.214:8000/play/a00z
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="DEPORTES",ESPN 2 HD
+http://181.65.154.170:8000/play/a03j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="DEPORTES",ESPN 3 HD
+hhttp://181.65.154.170:8000/play/a03g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="DEPORTES",ESPN 4
+http://181.65.154.170:8000/play/a06y/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="DEPORTES",ESPN EXTRA HD
+http://209.45.95.18:8000/play/a050
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DEPORTES",FOX Sports 1
+http://181.65.154.170:8000/play/a07v/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DEPORTES",FOX Sports 2 
+http://186.3.216.78:9955/play/a123/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DEPORTES",Fox Sports 3
+http://186.3.216.78:9955/play/a140/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="DEPORTES",ESPN EXTRA HD
+http://179.1.64.210:8090/play/a011/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DEPORTES",EL CANAL DEL FUTBOL
+http://186.3.216.78:9955/play/a0zv/index.m3u8
+                                                                                                   
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DEPORTES",FOX Sports 2 SD                                    http://181.78.22.214:8000/play/a01v
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DEPORTES ",TNT SPORTS 
+http://190.61.102.67:31589/play/a018/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DEPORTES ",WIN SPORTS HD
+http://186.3.216.78:9955/play/a10q/index.m3u8
+
+EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DEPORTES ",WIN SPORTS + HD
+http://186.3.216.78:9955/play/a0ze/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA ",MUSIC TOP
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",FOODIES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplu
+
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS",JURASSIC WORLD 1
+https://onedrive.live.com/download.aspx?cid=CE04B9016CA29A42&resid=CE04B9016CA29A42!125&authkey=ABVa_LQGRRgl8Yc
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS",El cazador y la reina de hielo (2016/AVENTURA)
+https://onedrive.live.com/download?cid=A4A1F0763FCC8C65&resid=A4A1F0763FCC8C65%21117&authkey=AOHQ65nCGoFIA3M
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NETFLIX",PIXELES (2015/COMEDIA)
+https://onedrive.live.com/download?cid=A4A1F0763FCC8C65&resid=A4A1F0763FCC8C65%21117&authkey=AOHQ65nCGoFIA3M
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS",MI VIDA A LOS 17 SUBTITULADO
+http://bit.ly/2v16m9z
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS",La bella durmiente Clasico.
+http://bit.ly/LABELLAMOVIE
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS",VOLVER AL FUTURO
+https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS",VOLVER AL FUTURO 3
+https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS",CHUKY [1988]
+http://bit.ly/MRAQCCHUCK	
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS",CHUKY 2 [1990]
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!843&authkey=!AI3_Mz6ivD6r9oM&ithint=video%2cmp4%20
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS",CHUCKY 3 [1991]
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj_KRCJnKhYTw&ithint=video%2cmp4 
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS",LA NOVIA DE CHUCKY
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS", EL MAL ADENTRO(2017) SUB (terror)
+http://bit.ly/EVILWITHIN_MOVIE
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS", PET:MASCOTA HUMANA (2016/Terror)
+http://bit.ly/MASCOTAHUMANA
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DisneyPLUS",Abracadabra 2 (2022/Comedia)
+https://s20.fastream.to/hls2/03/00039/praerpay8pff_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=3K0TuJuGK3CrGpB1TjjrUxEzfVUa7sz980dAbXcaFXo&s=1664856605&e=43200&f=198780&srv=s9&i=0.0&sp=0&p1=s9&p2=s9
+
+#EXTINF:-1 tvg-logo="https://www.ennetflix.com.ar/media/8/tormenta-de-arena_80098810.jpg"  group-title="NETFLIX",TORMENTA DE ARENA (2016/Drama)
+http://bit.ly/MRAQCASTI
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NETFLIX",EN EL CORAZON DEL MAR (2015/Aventura)
+https://goo.gl/4BqODN
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS",LA CHICA DAnesa (2015/Drama)
+https://goo.gl/nQXbQ5
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS",Hannibal, el origen del mal (2007/Terror)
+https://goo.gl/gWJEZq
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS",Mi abuelo es un peligro (2016/Comedia)
+https://goo.gl/KYCQoX
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS",Siniestro (2012/Terror)
+https://goo.gl/F5NCPj	
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NETFLIX",SANDY WEXLER (ADAM SANDLER)
+http://bit.ly/MRAQCSAND
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/17/05/31/12/51/150091.png/"  group-title="PELICULAS",COLOSSAL
+http://bit.ly/2w5zZIw
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NETFLIX KIDS",SAHARA
+http://bit.ly/SAHARAMOVIE
+
+#EXTINF:-1 tvg-logo="https://www.ennetflix.com.ar/media/8/tormenta-de-arena_80098810.jpg"  group-title="NETFLIX KIDS",ANGRY BIRDS
+https://goo.gl/3KGMLf
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/doragon_boru_supa_supa_hiro-181561937-mmed.jpg"  group-title="ESTRENO",Dragon Ball Hero (2022/Anime)
+https://cldup.com/iXKN3BD-edu.mp4?download=DBS-SH.2022.lat-AnimeYT.es.mp4
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="ESTRENO",JURASIC WORLD HD
+https://00f74ba44b0f3552027e2ecf137b5b428233dd21b5-apidata.googleusercontent.com/download/storage/v1/b/lansah/o/v9aDAnRLrYN?jk=AFshE3UNYqOy5LHwzKBLgxJ82Ftk5I4Tf_ILAtpiu9aPxWpl80fStQMswfaV6RfnnOfAHZhwqv0Gk_1QA_6aecPUPyIEu4dlTsUpTbCu29IRk_a6PIsxoGi8VfOpr0seD2UyH3cgHFb9Wz3L70y3YjMCg0vsoaECKYrb8388zmnalQ6VLe58kVoPOFebjtxURrhLYXABTwj9Z2G-vRs6BAWrQLO810kikI9TPg8xPwFN5wLm_qDg-Y5O5iwS9uek7ugO3LRyVlIXGmbphTSTdZhUEA0QUOPStkTXjl996WzejtBjIUJa6EtfKhRcvNmPnrBmDXanfm7z0guogIORqi1pw7u6IP8l6_5HHILYh88vcNpIOsvFO5PkricCH6ZJ0N9aHPjktoI8D-NGeNS1InTl_iPqIvXm4T9x63nfmv1IiSvb53k8cRUFyWdjLKxJhoUzE4Nt3u8xwKdk6JuqlPsZHO3tcTiNnITvGB74i03_2Je8YcpPmaJw8K2Vg7KhaJpRUMtraODjF87CRgE5Y65EOJ4ZTf0ll0AZlE94w6AgZx9S-DaUC--A87VtjH7sUtAQ-uI6-zJpphmiwHbCoVzZvrNmBHPms40hXgafYtvzi5xxTgynpUg7qeYUWyWbpkbwwkL2Upk0DkWDnskydGePZaYhOtbH6viReDqqSQ0UN6GUzmDcMoHC43AnMXdIg2L1YrQU1NdfjADKe4Z0CSd9u1Pn9wzuAqpYF6L8SJfCh7-y7YpqGRcVWJMzLba6FCKgR-rY1KcoQUGYz3HQj2nvjJGiWhqKWgr8dg4SsPWYfQHWjv0Cd_BGdSKyDu7e-EgaSG4UukwirKK91RjuJ2NiZrMeXUjfEA6xgVYFyY0QCVF5Pmq02YQyfv-iN_Nxd44MEwz1I23cRhxNDcF71JdOYf6nESae0WB11O6eSuwG89L9TTwOIbXzt0BPAeIdgeYe7r8HwY4jHXgPtPr8xiaj_C1StFSAwgFikItXm2LfLaD7rvGgzQqkeyRqO_j4BhnpIjqtAxT5JIFfO_nORq4HhOXaPEuUBZGXB0PzSxc1zTE7UQz25w5GTYx2Ks_RT_wNLiWDxKewkGFst6AdkM-ArTtCiVCwGJjzzD5ddExJ3T_u1Ount2xJYm94zkb5ekl3tW8sly3OZVdVw3UHg6CgOQWeI2CqNko0XBjfFAg-8sLaNzG6EQ&isca=1
+
+
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/sago_mini_friends-392691448-large.jpg"  group-title="APPLE TV KIDS",AMIGOS SAGO MINI EP1
+https://s17.fastream.to/hls2/02/00039/97m9c72i4rsp_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=yJFXO8BIHvOKQlCvB-_6dVikd7QxFiFXJzSbPOK9loY&s=1664901275&e=43200&f=198357&i=0.0&sp=0
+
+
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/sago_mini_friends-392691448-large.jpg"  group-title="APPLE TV KIDS",AMIGOS SAGO MINI EP2
+https://s9.fastream.to/hls2/03/00039/z17h8s96plqj_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=qdVUEZqwxWYwzQYxsb8SEHyYjdnN3dImAnAKPVzHReU&s=1664857238&e=43200&f=198358&i=0.0&sp=0
+
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/sago_mini_friends-392691448-large.jpg"  group-title="APPLE TV KIDS",AMIGOS SAGO MINI EP3
+https://s17.fastream.to/hls2/05/00039/kfwgr73q22wp_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=lOsZDhIv0184QxQM79d-BMOqpf0VO0hES9fASkGv8Kg&s=1664857319&e=43200&f=198359&i=0.0&sp=0
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/sago_mini_friends-392691448-large.jpg"  group-title="APPLE TV KIDS",AMIGOS SAGO MINI EP4
+https://s14.fastream.to/hls2/02/00039/geqpdabrg6h9_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=42Jl9Qdv3OfcShHFim3oyyfCi4DWUHPvvOtg-VSYWg8&s=1664867451&e=43200&f=198360&i=0.0&sp=0
+
+#EXTINF:-1 tvg-logo="hhttps://pics.filmaffinity.com/sago_mini_friends-392691448-large.jpg"  group-title="APPLE TV KIDS",AMIGOS SAGO MINI EP5
+https://s14.fastream.to/hls2/02/00039/m60iv21snm20_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=V4HVjdaoMMX-rgZ-8asMUPY0McyEDSuCgBUxv-a3Dk8&s=1664867537&e=43200&f=198361&i=0.0&sp=0
+
+#EXTINF:-1 tvg-logo="hhttps://pics.filmaffinity.com/sago_mini_friends-392691448-large.jpg"  group-title="APPLE TV KIDS",AMIGOS SAGO MINI EP6
+https://s14.fastream.to/hls2/05/00039/ik8axwi1n0nu_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=CJGj1ZOJEPoFDb7fM_FQGqNh7Z0IOAP5zSHOMI73Hwg&s=1664867766&e=43200&f=198362&i=0.0&sp=0
+
+#EXTINF:-1 tvg-logo="hhttps://pics.filmaffinity.com/sago_mini_friends-392691448-large.jpg"  group-title="APPLE TV KIDS",AMIGOS SAGO MINI EP7
+https://s11.fastream.to/hls2/04/00039/r3isrtkpxr3l_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=tWdBZhM17Y9WpA8T45Ch4gZvhBJQ0IpvpnB2KNBy59s&s=1664867845&e=43200&f=198363&i=0.0&sp=0
+
+#EXTINF:-1 tvg-logo="hhttps://pics.filmaffinity.com/sago_mini_friends-392691448-large.jpg"  group-title="APPLE TV KIDS",AMIGOS SAGO MINI EP8
+https://s16.fastream.to/hls2/04/00039/zgc7pmqjqtz1_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=MJEHjd1-nC93YDenoYS0PbMMlZbv-2rbf8MUiZ3OLeI&s=1664867981&e=43200&f=198364&i=0.0&sp=0
+
+#EXTINF:-1 tvg-logo="hhttps://pics.filmaffinity.com/sago_mini_friends-392691448-large.jpg"  group-title="APPLE TV KIDS",AMIGOS SAGO MINI EP9
+https://s17.fastream.to/hls2/02/00039/uj9bgjp7yj2b_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=nnXPtjN4kcjxSJMCS0akpRM-XZZmEk-tvfGtEdEItI4&s=1664868068&e=43200&f=198365&i=0.0&sp=0
+
+
+#EXTINF:-1 tvg-logo="hhttps://pics.filmaffinity.com/sago_mini_friends-392691448-large.jpg"  group-title="APPLE TV KIDS",AMIGOS SAGO MINI EP10
+https://s12.fastream.to/hls2/03/00039/jdj92ec5ufbo_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=_P1nRQo-kVp8IXkeY8XWSRhVwqers5O9CofL3M1InHM&s=1664868121&e=43200&f=198366&i=0.0&sp=0
+
+
+#EXTINF:-1 tvg-logo="https://www.heraldousa.com/u/fotografias/fotosnoticias/2022/9/21/48621.jpg"  group-title="NETFLIX SERIES",Dahmer EP1 
+https://00f74ba44b32f76366505e166e889a4e6106927bc0-apidata.googleusercontent.com/download/storage/v1/b/lansah/o/B107mxe8m9n?jk=AFshE3X9YUDZ7cQeHaIgj_sHYEo7PS3afI0GEZ51X3ONNKGu2bAlFj3ZX3JZgTtHDbxp_tbVZV6fMFkHzKRAl6WdpCpftrI8mk3OZDp2T6gli5wtYduWSf0sD4DZbIQaZrypgNJew1YHJAWdMdBDpgc0TX_b-0BlJMY03di6dV_JCEMx9NAWETX-oAi-_Zg-Bvn3Efc-6YCGOfdnCKs2AJDo4Suojgdig2GlJ1ee3Y4YHrXLitLo7wX-PrYl9uKtMV2SUF-awKphX-rI6qbCZM5fuxB8MVE1RxCCusGEduFKs0GFDpUjjsUrpb1OAjI6hoQtE0iwlrq5rEYbdLq2NYdyaqKhHaUA2zXEu966iHpjjCZjKDfxt5gPwJqX3bHYZxxd9OnaZBpktc1wdHyjrw-xt8ZVSvwG1jq5Kiwo4lJFR_bslpbzSGUp-5J1tXKCKPUakn2UAi_F4fYRkArIZGc7RYPzAImmV_o187OtA8D-iMkvZJ2uczaF12R1JiUCrFkfMvR170rgqI_5UT18dw3ct0TjrbulscLVCBVohGDx3U_ONWF8fClnWanJ1i4EsYBSonvNmZFIb2aLRw1d5chW-9DQtcp2YFYV34nkuEgD3LuRM06O_U6MqubOVY5nQhZYH5yk6c-LTg86OG0kp7e8ePlt43vZX-w_yJGGpEXc8nS1vK6BgwxyJqGmgnR-JjbxBtE-Daefs35s7DgxtIOBOaD-qrgzlV0uHFATUTKUttHd1fAFNuheqNzagDh78ULY7Zm8IR4rety0PtHsmuRHUzwNeUIymJYLQ949SZgv2ZiajJkbyXjDXmfOJDF9bGzYECZyM0BfFQY0M9_neRTPDeYfmNP3tAC9lRcquSIRLQdcBpDzNVUK9U6EU9CmntqtJXpP0Q4W-wJCWFUv7jLNH04OBO4OuO0r-kj9f9cmztuKNkmaYaewNup7x0m_fInhJSSjPgZM6_PSLBSvR6mj4ihKQxcfQqt1nheAI_W6UwkeJV7PFHcrRX-rje8xUZpyNFQgsWtXwGNFM2SX8lX4oUSBOqBBoDZU_BQAJJz-Zy_XKNOk81s7lPRGQptUByJmvyaROJAJbq07pxc-3CSP0gaVP9PoZ0CJ43VajRKgwDtBFsZKuk6qUo-C87tTOISV2H8fCWkS5t1ZjImkqOh_nijnm_d_gRAZO-lCOqRs0mxw-UY1kw&isca=1
+
+#EXTINF:-1 tvg-logo="https://www.heraldousa.com/u/fotografias/fotosnoticias/2022/9/21/48621.jpg"  group-title="NETFLIX SERIES",Dahmer EP2
+https://00f74ba44beb318e5d167996f9e08797408ec18717-apidata.googleusercontent.com/download/storage/v1/b/lansah/o/32joKE6yKPn?jk=AFshE3Vl52gieEF0TYZ7lefNly35nSLaI3SuwoJ0hjRX4ez4woOw3J18QhbxdsDvIbB7vLZ5QRyVBcFbFL-5hEe0_NjqnGj1oJmqSg2Zi8zELDAOy1G6gdCJjizOhEuTRTiDXqdcfmvRzA4PnIBKVE6XysnPT9dUTPEXw-EyZNgN526yXKZe3yTz7Xlxtqeg0ci5F7fBKYs5nDd0RFpNxIJSIL8TLIl2FuFb0Gd9YhVFR4CUrQXRcDeBO-UDRKegfqLcX8lAC-P50lQ21ZhBQhTkKe9ovqscPc3SuNkzAm8XdLB3-r2a3mk6kUiol01w_Hb1XQIo4tyBKtL_C0yO1OxWIX1gpLVE-oTdWzKBsrjN9c4c5dMsdOhmDOEpYrCoOuwv_otKBbwvEyKm8cyVJFN1c5pFEPb6m-i99UcJlk00CvBjJvuIOJXjhUAOVA-0K72Rk67i06w1vGQr2NxBpGICxsqoR0zMmlpX0LVTt_dTQymzI87p-Nv73B1UfL2lFA5vi_GS5XQr0uQ5Hl4D7oYLEyyVtZsTGa5xwFoXM3xWQw01R_w_3k9hBkz5x_VYKq3TQz2J76Sov1JrhXUMO2Acq4_xXZ23Sl6dq5hiNj-RKY9265i8W9T16QJTr1wtrhYk7wI1FSN843olkkYiP1l7sPH7bhXEBP6ELnm6dnb4tSlTsBi6E-VLFIrjkHzjmmtx9aFM-aMd-EmKVMoFKt1n-KmPXoFTVSZCx3FWmAbbf1A3oGK8ruDbONTAhGS6dyrklU-c6fhyRD_KPPhMHpQqh8hmaaVuTcKW_k5PdoRFGi6dzQ4XlSwGfERgzjPFUQpoDJ6Qab_py2kP0L-m7Gqms-smlaj41i3y2ZGE2tON29ibpEuNCq61n5YIEVO3_c7ylcNwJ3ftwhnoWFOZkfni-shMtYLVLItytApIjkcVzjQM5NlZBTs4gn0NwikveODbe33coEbXh6HmpUksPN8qlkpuD-igOda6KZLhyWjzRuCJGSBxopMw_JG1TOl_S32qUnBYC-obWEQDv-NdbzzEFGWuJZ547u-5EVUThGstN56uimG1fTZESPgntnglCVG-YdfJ4toq9rNkTaBrucul0VcECzOvryXXH35HNpeY8juSE4uKTYws0wj18IKcGHOVUJOzCTuMM1UoSn8mo3X6GXMygiV6JqWYTdLCYNmWNUg25z_0PQ&isca=1
+
+
+
+#EXTINF:-1 tvg-logo="https://www.heraldousa.com/u/fotografias/fotosnoticias/2022/9/21/48621.jpg"  group-title="NETFLIX SERIES",Dahmer EP3
+https://00f74ba44b3a1470c70a44e303d6c8d2cfedaeb589-apidata.googleusercontent.com/download/storage/v1/b/lansah/o/xMWVndwbNl0?jk=AFshE3U0_mgEwIXm6QwwlHIKPp1bddlzFmeWhPy_ykRxb1t7hvvtJVUkVXKbuP1WUdqrlX606LiLS0mjTroNHKmGK6k8DNW3VQTECPxpWSGKOywUFcOtPl-8AoQ2jto3egN2GpmtLEd-TDaOiF_LEbiQbc4oCcYZsBMFIKAawQOmPogqZObws9UlOvHGPHdUHCEqpar6xJhI8xouGFVbxnz1hNBEYwc1leUWv_A77b9Lax1JDutWZd3L2Ug2tdBZ50hhCJksJzmu_UVOoySkkXg06KcUnp-_QCBFEys8fZV4zGnJHVLlO0rOEd1A0miJuF_-igzPxfYbZ4H7vGg7JWvujNsITYejL45erLXaUulpcxLFmmZWOi7WzZ0uSehvghSOBMLpWG76cs6IRo-LBLfRVaK7RRdGbZxsEpOS_ZonwtBdWPfNyxffLwwNeUWRja91_enm8kbb-YPhX0YAbeo0OTUlhHJX_1OwYW1gc5J3UfWgIJfEer1TvLCjuTxaqUFLFhEPQDNZc5_NAvB21cHwfl3zDnKefcTayVCnQ7O-H6J6PwTq0bdcZYp-ZSa_HTKyojFQVJPNCFATyx-qN8g-3LOhXrE3w7Z1IPxejGQSivoAa7qH1bCEsDLkskdN7U4M_6dvfi63_G-e3VNuGq0rV1HCl3GIY9uPNpgFY4bo5WNC8MoRa4B-lg4sDQa80ajdxXb_nVI-6zE8VY33TMJDmxjXVzN4A657h_9ZtZjtpT7vrpUZGEes_rIemEvRFqwuDTnvBGxkCI3pqmZ6R3CFTzpvx_YIS6GTwCxrAnYeF6oKcbYbgb-a2aj1prKmKk4h1Pc8EvGHPS7LYVqzqFoAxKyfanp1Twe24k-LzIzIvD0XhDeokiln-9pyNfBJCe-KnEo-VVx80_kgpK1Vdj61C_fuhiBV0h01k8-R1wSs9uiFyA30J5flWGrtmU4M6IbYlyxZIzszwvzN3C5GpISxuyoP_yc-8dl0ncZ3Z-RU-Tcot22EVHY1Lg1fJEJsiZpeTp9bHXvG-TdptSbcQsUmgTbfjEkJmLlyzkqWoQEJE_fxeMu3DWL1QBK9rI80qBFLd3yX-JFt8WMkrJ4voMm2JN0bFgpTHANagOm-NelWd-tmPf5UGjHZgVbCDG1AC-jT4jseMGUlBqrIWjLb0-p6gmnpODeO7TpfYNoQXpnazb3tcQq_tA&isca=1
+
+#EXTINF:-1 tvg-logo="https://www.heraldousa.com/u/fotografias/fotosnoticias/2022/9/21/48621.jpg"  group-title="NETFLIX SERIES",Dahmer EP4
+https://00f74ba44bf6fb099c2fcc156a73de77081fc64979-apidata.googleusercontent.com/download/storage/v1/b/lansah/o/bKRRl4mxXKQ?jk=AFshE3UjZrz2LG4CvRV3hMHnUk7eGrtXHy_5wG_UVY0aRn5VeXa-hVcHarZMl-UwbXKzJhm7HBcgRZoSPfVOHs7yb6P5d-SvLGyW6uPrR2huW9qjwkhn_v_HJkNJw93X8JQVGbyLX3Dx4B-BpwTg8YqsW97r6oczW0jywTmmLrOv7WqzbK6thKtrjwS-Iq6FVY7cqMQ2pWP4UfNXpJmt12afz57GkN62_qxWZRoyv6tjTRaz6bfOrKT_RlpXsj-RPa1LJtefhq69rwBNPOtntJ8CH1K8pOqc60CTJMI0GIuEK8efHIvEpwgnBB9fabm3_UHMP1NNXTmptmCy2--SXKGAnuBMMP0UeuLHanvfcLB4AY7LG3eUgeT2EWBXfTqp6WmP8H4AycbUgN6KStC3PMIbfudLDsZLr_MLOjHi2T3dTJJguYigcOhP0uN2RERBQsVxrh_mDz5nlcriT7xEb1aor-9jsbV5zSX0zI5kY84j7CVJLOk7uqGtjNqskuN5KqEe5idfu392Bci_I2GchU69z1ugUhygn0xWiJYvg6FiFzTRhAH1PbZ2wq-wlatbYo0uSMe7w28wIVcVVG2JurZT4QXSEXbAY5THJf9iG7wcC_aHD8sQM_fR74r_0jJtXvymixG3UCYQcPin0bRZjBmoy-qd8cRW6t4Vx_r1f42tYP3nfLEuXhTo3B7c_ELdvVLaUrLv4pPXnKx2V544q-mq4FFKaMdj3Y6ZMzfbnb6SQII3omtl4UdztxOuY9Q6z67-IsWIJLn3IxMx7KqCMLN8u3qsn8aQpUVyfWCPBq6S-tFG_hfTnuFIUmQhk-BhTecC_iIsRnZUa6tjVJRxAKyP6BlGnF5NL1NDKlq0SYvUHIiWCKvZlC7_6DxKiuZi8-KrqDgOv7pyzSRVdkk1SXr7qSP_DOwKyQIw3xElP-jZT7Z8o8s9rOb0xM-ZpSph0BSwYUABvbtSqiswxHL5MfDmCXQISjfiLKIP2w6_dcybhOem0JTZp0r3WofWv-m-o6BTnf6aVxoyEDvbM0uFQSx6f5F6F1DS3480E1lDQO3f8O33UejVkTj4pxjiC9OTY-JxlEvg7g5R5J7F_At47IupGyFFMiJ_7ZEuJRzh0SKxqzFtCdXtFHkr2GQ9X6kOjq6DQYMpZR7p_8nSQ7p_3HxVKFwL9hVj3RSUGpdOMtTTrJ8-tZo13w&isca=1
+
+#EXTINF:-1 tvg-logo="https://www.heraldousa.com/u/fotografias/fotosnoticias/2022/9/21/48621.jpg"  group-title="NETFLIX SERIES",Dahmer EP5
+https://00f74ba44be4aae579fd51789c9867a8d9e4bcf487-apidata.googleusercontent.com/download/storage/v1/b/lansah/o/b7PyBaWkV5D?jk=AFshE3WrXLSX1p7MEq08ZRKWHJVqQnDfZcCGJSFlmF-FC-tB83uKY9e5oRMugx7Ho8Dzckt2ksOVKz2KEl2qodtSz_ZJDG6BR4Lz0BrLINYcOyiSr4ZPgLz7dza-736TV1akqeQkmNRX8YFkZGFwhu-alz6uuRG-RObyPsi_RsEDhFYDKyb9zWBnxxZPcFADpAHSbIueAHUJPHtYgj1bK20sOC2Mcf8Ohr_LxknJXC4Q5rA5svugjAEE71zwOy5oabzEY3JOhgh9BHAJ8B_yKq-k0oDC1o4xmTjhcraDFVQfXPCW3MvJ-OecmVmWujcZ8DwzCFyRneeZMqqaoZAV0AOMeVEe73t_yNzkqfQPfpUxyMKKmEVXT1W5ad3X-2GvpeTpbqGX1fzDVRcF2a6qOCTILCmP0JIWQpdz3HLLtdFJmglDsHVTMThkX6SVd7C30hA2zdy8Gp_ITCLzmYJ5h8d9W1_hlj2Jdvjs20anaiUUmDwvzicgAUkEc8v7XJFI-k_mG6pCs8L29vfiFjiyv1-E5Npy9dC8EZEeboxl_JcAZG0CLXA9tiEz9XSu0E9YN3WJNRJS5QS169nvkYeU9TG7y3X2vrYrTXQVnCKFldaoLz5aGIuW8hlZV9pgHeoRkV2MY38gk0faVWX4XWpVhAVhGWDc1VG6263-IfstqfW6C7zzilrMRrUAFTvr6gW8jAuq9zRf0M3L5AvYNeTmRyLZlhK7UjPCv0zZovFj2cxioQJ-aQwzwdvA3JB1g0gLb0XAJCJN5oFGxswkQjEtk6fT1KvltbkD4Cdho5xwbKAuEGJPl9In_wavPSSYN2DTZgC5ovhxNmd3h8XwPbOz-vlsngcsryYQXBHsF4obenFjNLM0qeW3PXgastbJd-dr98e-Bb4fcVPxg5EWaNDTkKDfxEYWwp18Js109gl8YDw2Qq7xALr5liaBh5OVYFGqNZwLrrIhiyy2T3nNun0mUNpPxy-REQjaZ5aLCFMgIkEJnmBRxGNy57G-nQnPdk_C5GXfSzrshlGLg206d-CfaP4gwYA99ex5CGJnfGp55QddmSN6RorThrXQUYnopr24sAIxWreMqSGKqInK3mNHKybE7Vz2YOOljgYBqwdebbNau6HUXex_mvhDvFkVxcKaXuCix5s4x-NzIljho3ukkDApsKF7Wsn5dRZwwFkEgv6kFCn47_Gzhg&isca=1	
+
+#EXTINF:-1 tvg-logo="https://www.heraldousa.com/u/fotografias/fotosnoticias/2022/9/21/48621.jpg"  group-title="NETFLIX SERIES",Dahmer EP6
+https://00f74ba44bd3602ce212fc649e30a5aafaca21e708-apidata.googleusercontent.com/download/storage/v1/b/lansah/o/NEokYLYQoEx?jk=AFshE3WvsLomz5juipkOZUUmDgY6zAV2uTMeRHSIVAaJRfzcwKBqe_JUiNeYzcL_CK0KFSr4ZtSijFbjxEUGKlX1z0gzJbbMQHuJRHRA_wCqcU-M_a-BJBMzO6-Wc0NNt2JZkIaUa5N5y5To-F0_-IYcRFTzy6O5nKylYG5Zfk3a21L-BtmrP3we7z3pacG9EJKNfJJdJc3RJf2-xqfbB2JwDEMW-BxMuK1adSUkcbInCPadn2OFWfSzvBPR9zc3335NgdBmeo0623oqhQYg0S97TIc6bcBY6Uok5AUlbG_n80r_AFVTKsTvFNbpZdP9a4Ppconw_ZalVpXD_yr1kmmKLlvyAf9i-vqa3vtdYiDXSFVZP_I3PgieRakK4qe6mula7IU_2HCNA8Kqvz6CIVtzRy5-1L_dZ_UJyEQWQdZ6nvs-WH64AWYpfPV33BBDOOjpL0TaXUKN4AgI1pM255Xrtbv4xNz0lh_Vu2Tb4GTFpSwL6baC34rhWI3SnWJWYvqKh5cDPXcHnSXIjNAUAY7d9efCVYu0Rh52a-Ixjv5Cp7QSHDKsdGjdcYwoTH02CHsbO2KIMcIejmKlzGFis3_oll9oSEfX6FgNgktfOyDEwRevgxOfMzH0EeVJJnSOyOepH-RGbI87WzxVf12dLW5pAsNgE2bqOyDurq28Xd8X9Uw6vQTciq0sjHJb4ZXY2uBjnDkVHUIMQO8qniPSgZbptnkBr6mh7-V28hL2R2hSWdjXMdDIV4CSM2HvIGGUP4uVns6A1ZWdhIRM8R7HV5DpW9_K3___NdiL-f4qMcSInxuyfhK8S4uqnIFohro3AV-pkEcomi-Wy3vXqeLkQ1dIE9C0kZYDPGGwbVr7hRkyTlVmwZFEmj6q3q_kVKccauR027Z5lI7QUly-CyrzmDOz3WfPJPTV4pOBl9OF4Z_40hQG9lHd9LgLjNPEt1_9vFBVapiRHCi3HAlOgjd6Q4ZndoXC2uFJelYGpfgmJKX-kjNIMPizknxKguPmwptGU2q7d9Y8A1IiGsTdjUROjbuxar9wYGSO-AsMH0rwUJz5XzlEzYstisq_FKd9_bvMwtyDJVb5DdQvvURclco9hkyhKy8OAQmDkidk1YD8dE52Ue1IweCLvkO-RdB4a5n_Ewv-m1OLsRs_lFdmD9Iat-7V7VWcS7AG9DkG7k0cM2vPWS06D_LebA&isca=1
+
+#EXTINF:-1 tvg-logo="https://www.heraldousa.com/u/fotografias/fotosnoticias/2022/9/21/48621.jpg"  group-title="NETFLIX SERIES",Dahmer EP7
+https://www83.ff-01.com/token=co3FD2xJj2CV2J9QA8deqA/1664938866/2800:200::/212/e/59/d9c62f74f7427603cfc7af46dca0b59e-480p.mp4
+
+#EXTINF:-1 tvg-logo="https://www.heraldousa.com/u/fotografias/fotosnoticias/2022/9/21/48621.jpg"  group-title="NETFLIX SERIES",Dahmer EP8
+https://00f74ba44ba6efbaaebc5f356937740607f6acf3a9-apidata.googleusercontent.com/download/storage/v1/b/lansah/o/g9eMkGAvj9j?jk=AFshE3U-8IBbLEFvjnPJuUKuz8kl7l3j1wgSosw9jani76FGT-rrgq12fJcIAaaGuFr6nDEiom0d88QdR2sc7tal-quUGISZ7hxYECCTdV8L8Oguw4eISQmiGfatuElDtELIFHesbMSAShY6lfsCuK3RBn86BNb1QZqvY4_noC6uMlt8W__aPLJpsPJIXQnl59B4q7Hk6UZSjc4kmU_4t1L9qL7DH1p41Pg9UlaGrGAYs0JsRjE22A8MM798Y6mAkh4HJXS3cgcnoA3rF7H21850w-p-LqE3gxfP3MdJY4GTRjNHHoPrunCfkL-rQ6Wcm398v8RTDs0zFDWtiqayWUd2ROTIXyopx2KuLNhCI93I8tHUUXVE8o7hkBUJbxOVY_h1AaxL4O2o4xIc6lfPFr-H0msBPvMO0UFu8FezAUfnk1tPYcIDgtDMTi3yVOLtsGfZStHatkGj5I9ifzwXmL_xQXcwR9tN_LmYvOOySwg2VVat5OjCbM_j0cyEcBaFDoOpNrKf2GHnh0IETd-KCfEi1VyobzM9-BYor3ZAK7d2YOJBj1OnDJMZOjBJw4w1vfZXItMBq6gUqmXHiC--0ZToBqrVWbvXE5E0EfMtkqrXPQWOPD5bZYSkj6bcfUsRuQuYeULonOxirms7R_kuMDDCdTeRq_U4uiWRAWeKUvCsml8QYTKAq6FV4aKxm_QiH9iNJxmsGR_8bNHmB9WMEZnJDP4sFZyEPQoM7oM5n9AnlvtScDrMvPw5S_rCulCC0NbyqHX-Oh25vCd5IKh2d1wa0b5xd9ZVSrnEtWyiVHFBf8xxQScUkgnfNkoDe8e7Dtwm5JQlWC5EQ1d4C6OJ0c0JbiJ8-Q5x4JgYdaRoMPKfVKfbpiheuntk4t3F8y4FYd2_F9YCqKR9rk9wLk_ivhjsV5cSYxtq1-tXvZAtUF7V5NHOnUl9CxO3H4i0vLUUhyTZKtaxlIonRUoEJjnzWilRyea6kCH6NIYvila2DgzyCYfJvJd8gaowDl4YheCiXAuUPMf1YKDS1nCW1A2suPtkq4uyAV2ys5xtRhiUa9vU13GueWDxM2ygzk3yKkiaNKcZk5Rlmq54nRYRQkJfyQ6KzAtoKF5EqvrwtWUYLVWP9KWy5idotgFEsFbAgpyWOGz79pGUaFIedegiEtKhs7gHF4OYYBGU0DQbXf_w9b-48WAFcDJG9w&isca=1
+
+#EXTINF:-1 tvg-logo="https://www.heraldousa.com/u/fotografias/fotosnoticias/2022/9/21/48621.jpg"  group-title="NETFLIX SERIES",Dahmer EP9
+https://00f74ba44bd55255f04939754a20c45701fb0a51e3-apidata.googleusercontent.com/download/storage/v1/b/lansah/o/K81jBrW9VAp?jk=AFshE3VfpqrIx_BdwSfsNEuzV1vn-QJd0nlK3wFm5kr46xhUORLsclexRcEQckEmb5HhCsmyq0ymrWJtPZ7EYreLTsTBU6e5P24kpYjb37N09pp_K5tC9z6VzRC45GhNy13c8LVSia5n-I0kQmCrq1eriAODPxdNZSapB0umzTFVpxLW3vAh5di9KKDIo3PGptzVtwSUdsCgGYdHwILKBAUw07eFNF7qXYOso37IUIFB0Trh77-4qHrW8Tl5p9btnSdv6n16GsMMdzC54VVG52XmPTYSfeZCYqdzbK7aTQrS5ou5ksKr0yPy6dIxzmKdzQQlzX3Y7P1AfRV6uYDheP9V3U4V3wvdkCLuMBhjHB20qvSIDnUxkExra6TTq4FHpp6Kgly_etMGhqRo_9nRf8p0xx6sOQxcgS8ocPNjbKX8IKd19uc4wOMcz_lvmLMYLOgaBdUu_cQxlO8JRPmfNGoHmYRKDfLT8Y_SFwHpLz-aIgf8OOxGgdiwINwgZjBUTx9TGtyPbsznYtBSFVRuHSF7ijKBkZRcau5Xgc9ybHUIKtYR6EhQU4GaZfYXFvMvQX2YSGBiB0bh-Kk1j-ai--ZL058T_UlbTXJadb_VMVU7Gqd4r_VzmSn2T0vNjf7dg8X515S0U6Syyc3FRyI7tPqw2ArH3PI6EQE0W64fbP7murmcgom1E2svX0O63jf4PSzda99KOe9mc_0SF3F88-wmOJtdzxz-R7CoQBz1yeS59jLlzuC3Vf7KsWsND16nOkazqrwDrbCvLnxzHjDsgduEY1A_9Nx0BIemjGBtGK-uadUqRPjmMl4WAPY02NQNl8T2aoOFTDzJMJrNetN3T6gWtc0W5k_5SDNOvzh19Nqt8e-Agr0FheErVxe3lIxBRYHydyhGuY-ZYd0FDSihynQN4bjBkOPMnPl1rcsh1EpqS6J67V_oeRemGy_yC2OClEH4wGfldP14xaNaNoG2LGYEX3N1zuuJ1zdj3jrOq0Ae9gpByPk99BuRRWyyXVLx-WqNIsRCj6dR_JQlmRdgBOJg_dCYkv0faN1wYOQwqzYmmDkNeMdmJHs8rhqD13P-zfNXrR3S_I69OkgQoQO6J9tRgdlZgaTqB5vLXOBNlhcfi5hqqSCUKrVL39NLi4-xdLT5IAYwlwqVVX1Kdsgol6Zahv-2lZiKo0FHnOyUvzFxWj3B1TNpEw&isca=1
+
+
+#EXTINF:-1 tvg-logo="https://www.heraldousa.com/u/fotografias/fotosnoticias/2022/9/21/48621.jpg"  group-title="NETFLIX SERIES",Dahmer EP10
+https://00f74ba44b4d8f9b2e12df3bba6244bbfb81c6c489-apidata.googleusercontent.com/download/storage/v1/b/lansah/o/pM3RpXBK3A6?jk=AFshE3VO_5Esm6Hx6KR2OBC-qJgEGXZlq45yKRMUadxEBd5lHtjiDNBsxSXOpR-t4xwkxIzArKEZ_VoupUl9bLrA-f4kN40SZfPxURbp_F7d2ZniAyXs6hTAbDDMZ4sQ-We08cnCVwVFqUOeyFnVNndNed4SN9QDBPFfHZajd8kS7g3_aLrKx5sUhgQoLdHL9ijmqVkrgUf1J7K_2HB_tS4TmI6FUaNaiP6ZaDps-TaLsQEAks73yVaChurUY7uocech7CWZnUi_nNZayuDtnW58L2zgU3zdWpbwmQ5lvXqPK3ZIeBa7ITIU0tM2dMoaMc2EL58BFYruTtLZGFab3g3PxapMhRnsstPzWEThyI1gwdyim9PwkT68E-YvoJBco0xEQN48PcrR9-PQH4dq-hf4d8K5HEsg0ofssfA6EfpCpIHOrc0gD551aZRO_T6vm9ebCJFFBE6iUuprTiglVv7KnGGF3URF9sAI9l7lqAc_urP7ztxV-TzfJSLSJq1s7ylfXO72oaw_8tRHZhnBFhUJ1c338FTCGNAK_tSLDDPtYUbk4_MJKWdQcE9EFz2NaSkfj-PCbfWDqsxgb7R68x2pK2Ru7rIfPiHWID0AovI0hqzPThE_UWQQGDQFeVy4_SQQE2HH_QKw09tCTlS_-bGi-k_8bR9C3w2YgTVb0oKdJ0Infgw57fkrf-YgHykP2JhmhNew32Jka0inO3M2oWH_r8rTLIj3JfKeTbEw_-8M0YLyT0ctgJ70-dPdFBF3Q3pTVYadkx6x_35UWStBat1uF4FIfkchmxvIbnGMUeRrvIHsYRggbymaJSfER05MbXldeyoMl8AbBbMztMEa7ve_UxXZos-OEyhCFO9HYZ4N2UHIuFcd-JA6CSbRIWrG_SLjZvIAo8SyXq3uzy2msaQIqaRN3vI48St7NQRNmy49_be8RHkKH4CqgV771TUBpRf6hp72URJBuvu71Qf9s6CTzDgnub8ryYzsV_EhjvnnZUKky_G3hQnaM2Ha3CLnLiqxxfVJHpOnXtoITYN6Fkn_ztEXpK2akdkyMUTj-IvdQDPbw-zS_GLeK0hwPzD8EjPSjPTjQPPZQaMBl3QmeYLOyMXQq7FWzhLWNW2A7vrtADI_kJq-v5I6e0CIoT51_pq7WkhkGDv_veccHvY1tm7roiR5kEkn1X5akIc8Hn5UzYPrfrlELA&isca=1
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",TocaHITS RETROMIX
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/39075
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",TocaHITS URBANO
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/39837
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",TocaHITS RETRO
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/42485
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",TocaHITS LATINO
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/43219
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",TocaHITS POP
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/52637
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",TocaHITS ROCK 
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/65357
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",VIDEO TOUR CHANNEL
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",RadioTv.pro
+https://paneltv.online:1936/radiotv/radiotv/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",PORTALFOXMIX
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w275910026.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",TELERITMO
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",A2i MUSIC
+https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",88 STEREO
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",EL CHAVO DEL 8
+https://live.telelatinohd.com:8080/MTc5LjYuMTA5LjE0MQ==/150_.m3u8?token=NsvGDAiXdAgBxQQFWMNn0Q&expires=1664856824
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",BOB ESPONJA
+https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",Death Note
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus 
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",THE WALKING DEAD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/featuredImage.jpg" group-title="24/7",El Reyno Infaltil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=51f247aa-de6a-4551-a331-ffa4c5dc6b64&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",CINECOMEDIA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f513564e4622a0007c578c0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",CINE XOXO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5136317aedfb0007016f93/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",CSI 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604928d54a4f730007ff76bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",NARCOS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7b47f12a45590007821749/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",VIAJE A LAS ESTRELLAS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6049295e7dcef800073c2499/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",SERIES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",INVESTIGACIONES 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",CRIMENES IMPERFECTOS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",EMERGENCIA 911
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492a1e6361250007679665/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",ACTIVIDAD PARANORMAL
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492a9bbca75b0007b1bfd5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+V#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",MISTERIOS SIN RESOLVER
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d882d5233170007ee880e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",MUNDO AVENTURA DOCUMENTALES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60511efd71ec430007f50d97/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",Hell's Kitchen
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492b2794116800073e32dc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus 
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",SONY CANAL COMEDIAS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492bb931054f00073c0b4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",ENTRE NOSOTRAS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492c67f4c48700075b5d37/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",ESTRELLA TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",CORTOS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61c49a1b5ec8d40008673251/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",South Park
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/628751bb7154a40007168843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",CINE ADRENALINA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",CINE TERROR
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+	
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",MI OBSECION FAVORITA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",ACAPULCO SHORE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c25ec6da6d6600074233a8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",MTV 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",COMEDY CENTRAL
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96dad1652631e36d43320/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",NARUTO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60493045fbb5e50007b36f4d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",YU-GI-OH!
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604930bc28b24d0007e0e171/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",NICK JR 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",BEBECITO BURN
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60493283ffc52f000710edae/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",BBC KIDS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6165c917a7302e0007871330/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",PINKFONG
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",PISTAS DE BLUE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",RUGRATS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",KARAOKE 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",CONCIERTOS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",TIERRA DE LOBOS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600ae59c341b1d0007d1c7cb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+

@@ -231,7 +231,7 @@ http://181.65.154.170:8000/play/a07p/index.m3u8
 http://181.78.22.214:8000/play/a01h
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",HBO HD
-http://186.3.216.78:9955/play/a12y/index.m3u8
+http://bgapp.live/104/tv9.php?c=NDc4Ni0yMjAy&token=blackghoost&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",HBO 2 HD
 http://181.65.154.170:8000/play/a07i/index.m3u8
@@ -240,8 +240,8 @@ http://181.65.154.170:8000/play/a07i/index.m3u8
 http://209.45.95.18:8000/play/a07c
 
                                                                                                                                  
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",HBO POP
-http://186.3.216.78:9955/play/a130/index.m3u8
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",HBO POP HD
+http://bgapp.live/104/tv9.php?c=MjAzMi0yMjAy&token=blackghoost&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",HBO SIGNATURE

@@ -934,212 +934,246 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",TIERRA DE LOBOS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600ae59c341b1d0007d1c7cb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S01 E01
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S01 E01
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254484.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S01 E02
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S01 E02
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254485.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S01 E03
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S01 E03
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254486.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S01 E04
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S01 E04
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254487.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S01 E05
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S01 E05
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254488.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S01 E06
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S01 E06
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254489.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S01 E07
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S01 E07
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254490.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S01 E08
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S01 E08
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254491.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S01 E09
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S01 E09
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254492.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S01 E10
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S01 E10
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254493.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S01 E11
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S01 E11
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254494.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S01 E12
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S01 E12
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254495.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S01 E13
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S01 E13
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254496.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S02 E01
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S02 E01
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254497.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S02 E02
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S02 E02
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254498.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S02 E03
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S02 E03
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254499.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S02 E04
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S02 E04
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254500.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S02 E05
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S02 E05
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/292729.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S02 E06
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S02 E06
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254501.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S02 E07
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S02 E07
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/292735.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S02 E08
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S02 E08
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254502.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S02 E09
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S02 E09
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254503.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S02 E10
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S02 E10
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254504.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S02 E11
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S02 E11
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254505.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S02 E12
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S02 E12
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/292758.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S03 E01
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S03 E01
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254506.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S03 E02
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S03 E02
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254507.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S03 E03
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S03 E03
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254508.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S03 E04
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S03 E04
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254509.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S03 E05
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S03 E05
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254510.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S03 E06
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S03 E06
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254511.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S03 E07
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S03 E07
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254512.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S03 E08
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S03 E08
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254513.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S04 E01
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S04 E01
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254514.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S04 E02
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S04 E02
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254515.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S04 E03
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S04 E03
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254516.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S04 E04
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S04 E04
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254517.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S04 E05
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S04 E05
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254518.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S04 E06
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S04 E06
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254519.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S04 E07
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S04 E07
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254520.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S04 E08
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S04 E08
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254521.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S05 E01
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S05 E01
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254522.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S05 E02
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S05 E02
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254523.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S05 E03
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S05 E03
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254524.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S05 E04
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S05 E04
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254525.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S05 E05
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S05 E05
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254526.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S05 E06
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S05 E06
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/307601.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S05 E07
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S05 E07
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/307602.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S05 E08
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S05 E08
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/307603.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S05 E09
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S05 E09
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/307604.mkv
-#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S05 E10
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="NETFLIX | SERIES",la Casa De Papel S05 E10
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/307605.mkv
 
 
-#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S01 E01
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="PRIMEVIDEO | SERIES",THE PURGE S01 E01
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254527.mp4
-#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S01 E02
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="PRIMEVIDEO | SERIES",THE PURGE S01 E02
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254528.mp4
-#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S01 E03
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="PRIMEVIDEO | SERIES",THE PURGE S01 E03
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254529.mp4
-#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S01 E04
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="PRIMEVIDEO | SERIES",THE PURGE S01 E04
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254530.mp4
-#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S01 E05
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="PRIMEVIDEO | SERIES",THE PURGE S01 E05
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254531.mp4
-#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S01 E06
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="PRIMEVIDEO | SERIES",THE PURGE S01 E06
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254532.mp4
-#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S01 E07
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="PRIMEVIDEO | SERIES",THE PURGE S01 E07
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254533.mp4
-#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S01 E08
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="PRIMEVIDEO | SERIES",THE PURGE S01 E08
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254534.mp4
-#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S01 E09
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="PRIMEVIDEO | SERIES",THE PURGE S01 E09
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254535.mp4
-#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S01 E10
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="PRIMEVIDEO | SERIES",THE PURGE S01 E10
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254536.mp4
-#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S02 E01
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="PRIMEVIDEO | SERIES",THE PURGE S02 E01
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254537.mkv
-#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S02 E02
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="PRIMEVIDEO | SERIES",THE PURGE S02 E02
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254538.mkv
-#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S02 E03
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="PRIMEVIDEO | SERIES",THE PURGE S02 E03
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254539.mkv
-#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S02 E04
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="PRIMEVIDEO | SERIES",THE PURGE S02 E04
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254540.mkv
-#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S02 E05
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="PRIMEVIDEO | SERIES",THE PURGE S02 E05
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254541.mkv
-#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S02 E06
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="PRIMEVIDEO | SERIES",THE PURGE S02 E06
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254542.mkv
-#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S02 E07
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="PRIMEVIDEO | SERIES",THE PURGE S02 E07
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254543.mkv
-#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S02 E08
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="PRIMEVIDEO | SERIES",THE PURGE S02 E08
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254544.mkv
-#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S02 E09
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="PRIMEVIDEO | SERIES",THE PURGE S02 E09
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254545.mkv
-#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S02 E10
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="PRIMEVIDEO | SERIES",THE PURGE S02 E10
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254546.mkv
 
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S01 E01
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="NETFLIX | SERIES",The Umbrella Academy S01 E01
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254712.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S01 E02
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="NETFLIX | SERIES",The Umbrella Academy S01 E02
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254713.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S01 E03
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="NETFLIX | SERIES",The Umbrella Academy S01 E03
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254714.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S01 E04
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="NETFLIX | SERIES",The Umbrella Academy S01 E04
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254715.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S01 E05
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="NETFLIX | SERIES",The Umbrella Academy S01 E05
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254716.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S01 E06
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="NETFLIX | SERIES",The Umbrella Academy S01 E06
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254717.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S01 E07
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="NETFLIX | SERIES",The Umbrella Academy S01 E07
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254718.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S01 E08
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="NETFLIX | SERIES",The Umbrella Academy S01 E08
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254719.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S01 E09
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="NETFLIX | SERIES",The Umbrella Academy S01 E09
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254720.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S01 E10
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="NETFLIX | SERIES",The Umbrella Academy S01 E10
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254721.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S02 E01
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="NETFLIX | SERIES",The Umbrella Academy S02 E01
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254722.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S02 E02
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="NETFLIX | SERIES",The Umbrella Academy S02 E02
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254723.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S02 E03
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="NETFLIX | SERIES",The Umbrella Academy S02 E03
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254724.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S02 E04
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="NETFLIX | SERIES",The Umbrella Academy S02 E04
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254725.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S02 E05
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="NETFLIX | SERIES",The Umbrella Academy S02 E05
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254726.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S02 E06
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="NETFLIX | SERIES",The Umbrella Academy S02 E06
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254727.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S02 E07
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="NETFLIX | SERIES",The Umbrella Academy S02 E07
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254728.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S02 E08
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="NETFLIX | SERIES",The Umbrella Academy S02 E08
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254729.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S02 E09
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="NETFLIX | SERIES",The Umbrella Academy S02 E09
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254730.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S02 E10
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="NETFLIX | SERIES",The Umbrella Academy S02 E10
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254731.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S03 E01
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="NETFLIX | SERIES",The Umbrella Academy S03 E01
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/305587.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S03 E02
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="NETFLIX | SERIES",The Umbrella Academy S03 E02
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/305588.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S03 E03
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="NETFLIX | SERIES",The Umbrella Academy S03 E03
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/305589.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S03 E04
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="NETFLIX | SERIES",The Umbrella Academy S03 E04
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/305590.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S03 E05
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="NETFLIX | SERIES",The Umbrella Academy S03 E05
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/305591.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S03 E06
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="NETFLIX | SERIES",The Umbrella Academy S03 E06
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/305592.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S03 E07
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="NETFLIX | SERIES",The Umbrella Academy S03 E07
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/305593.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S03 E08
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="NETFLIX | SERIES",The Umbrella Academy S03 E08
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/305594.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S03 E09
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="NETFLIX | SERIES",The Umbrella Academy S03 E09
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/305595.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S03 E10
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="NETFLIX | SERIES",The Umbrella Academy S03 E10
 http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/305596.mkv
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="NETFLIX | SERIES",El juego del calamar S01 E01
+http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_01.mkv
+#EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="NETFLIX | SERIES",El juego del calamar S01 E02
+http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_02.mkv
+#EXTINF:-1 tvg-id="" tvg-name="S01 E03" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="NETFLIX | SERIES",El juego del calamar S01 E03
+http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_03.mkv
+#EXTINF:-1 tvg-id="" tvg-name="S01 E04" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="NETFLIX | SERIES",El juego del calamar S01 E04
+http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_04.mkv
+#EXTINF:-1 tvg-id="" tvg-name="S01 E05" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="NETFLIX | SERIES",El juego del calamar S01 E05
+http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_05.mkv
+#EXTINF:-1 tvg-id="" tvg-name="S01 E06" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="NETFLIX | SERIES",El juego del calamar S01 E06
+http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_06.mkv
+#EXTINF:-1 tvg-id="" tvg-name="S01 E07" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="NETFLIX | SERIES",El juego del calamar S01 E07
+http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_07.mkv
+#EXTINF:-1 tvg-id="" tvg-name="S01 E08" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="NETFLIX | SERIES",El juego del calamar S01 E08
+http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_08.mkv
+#EXTINF:-1 tvg-id="" tvg-name="S01 E09" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="NETFLIX | SERIES",El juego del calamar S01 E09
+http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_09.mkv
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="" group-title="SERIES | DRAMA",Los anillos de poder S01 E01
+http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.senor.de.los.anillos.Los.anillos.de.poder01.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E02" tvg-logo="" group-title="SERIES | DRAMA",Los anillos de poder S01 E02
+http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.senor.de.los.anillos.Los.anillos.de.poder02.lati.mp4
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Cruella" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bsApWAUqb0jeXtHPjKQ6MZOtZJ.jpg" group-title="DISNEY PLUS| PELICULAS",Cruella 2021
+http://vod.tuxchannel.tv:80/peliculas/720/cruella%202021.mkv
 
 
 

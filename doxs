@@ -736,8 +736,8 @@ http://bit.ly/SAHARAMOVIE
 #EXTINF:-1 tvg-logo="https://www.ennetflix.com.ar/media/8/tormenta-de-arena_80098810.jpg"  group-title="NETFLIX KIDS",ANGRY BIRDS
 https://goo.gl/3KGMLf
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/doragon_boru_supa_supa_hiro-181561937-mmed.jpg"  group-title="ESTRENO",Dragon Ball Hero (2022/Anime)
-https://cldup.com/iXKN3BD-edu.mp4?download=DBS-SH.2022.lat-AnimeYT.es.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/doragon_boru_supa_supa_hiro-181561937-mmed.jpg"  group-title="ESTRENOS 2022",Dragon Ball Hero (2022/Anime)
+https://ia801406.us.archive.org/15/items/dbs-5up-3r-h/DBS%205up3r_H.mp4
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",VISION MUSICA
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
@@ -1265,7 +1265,7 @@ http://vod.tuxchannel.tv:80/peliculas/720/aliens%20stole%20my%20body%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/love%20guaranteed%202020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Caos" tvg-logo="" group-title="VOD | Peliculas",Caos
 http://vod.tuxchannel.tv:80/peliculas/720/chaos%20walking%202021.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El dia del fin del mundo" tvg-logo="" group-title="Peliculas",EL DIA DEL FIN DEL MUNDO
+#EXTINF:-1 tvg-id="" tvg-name="El dia del fin del mundo" tvg-logo="" group-title="VOD | Peliculas",EL DIA DEL FIN DEL MUNDO
 http://vod.tuxchannel.tv:80/peliculas/720/greenland%202020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry" tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/25/13/40/3112646.jpg" group-title="HBO MAX | Peliculas",Tom y Jerry
 http://vod.tuxchannel.tv/peliculas/720/tom%20and%20jerry%202021.mkv
@@ -1295,15 +1295,15 @@ http://vod.tuxchannel.tv/peliculas/720/rampage.mkv
 http://vod.tuxchannel.tv/peliculas/720/terretomo%20la%20falla%20de%20san%20andres.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Geotormenta" tvg-logo="https://es.web.img3.acsta.net/pictures/17/10/02/09/55/3526292.jpg" group-title="VOD | Peliculas",Geotormenta
 http://vod.tuxchannel.tv/peliculas/720/geostorm.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Viuda negra" tvg-logo="https://c8.alamy.com/compes/2fnk54p/black-widow-cartel-de-caracter-estadounidense-con-fecha-de-lanzamiento-actualizada-del-9-de-julio-de-2021-rachel-weisz-como-melina-vostokoff-2021-walt-disney-studios-motion-pictures-marvel-studios-courtesy-everett-collection-2fnk54p.jpg" group-title="VOD | Peliculas",Viuda negra
+#EXTINF:-1 tvg-id="" tvg-name="Viuda negra" tvg-logo="https://c8.alamy.com/compes/2fnk54p/black-widow-cartel-de-caracter-estadounidense-con-fecha-de-lanzamiento-actualizada-del-9-de-julio-de-2021-rachel-weisz-como-melina-vostokoff-2021-walt-disney-studios-motion-pictures-marvel-studios-courtesy-everett-collection-2fnk54p.jpg" group-title="DISNEY PLUS | PELICULAS",Viuda negra
 http://vod.tuxchannel.tv:80/peliculas/720/black%20widow%202021.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Asesino sin memoria" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/39143-745823-20220413054853.jpg" group-title="VOD | Peliculas",Asesino sin emoria
 http://vod.tuxchannel.tv/peliculas/720/memory%202022.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jurassic world dominion" tvg-logo="https://es.web.img2.acsta.net/pictures/22/04/25/10/39/2475018.jpg" group-title="VOD | Peliculas",Jurassic world dominion
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic world dominion" tvg-logo="https://es.web.img2.acsta.net/pictures/22/04/25/10/39/2475018.jpg" group-title="ESTRENOS 2022",Jurassic world dominion
 https://archive.org/download/jur4ccicw0rd-doml-2022/jur4ccicw0rd-doml-2022.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La ciudad perdida" tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/28/16/18/2106533.jpg" group-title="VOD | Peliculas",La ciudad perdida
 
-#EXTINF:-1 tvg-id="" tvg-name="Mas barato por docena" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj14ESObyRC36US92HWgZDFCkgVvryCmoJZXEMwC9MgjXYFZbPOwcQdOS3QuWsRvaCcoECvNXmhlV5VfhKnOMSIErHe6K2inbK49C-1XcrDzPjOHuGyLsVpaGOy3nDBIiKVLOEcUBH6K2-Kf9SluXYDk_hwyV9HFOnrqxCD5ilXXzOA-5QVhyC5QtEl/s1350/mas%20barato%20por%20docena%20poster.jpg" group-title="VOD | Peliculas",Mas barato por docena
+#EXTINF:-1 tvg-id="" tvg-name="Mas barato por docena"tv-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj14ESObyRC36US92HWgZDFCkgVvryCmoJZXEMwC9MgjXYFZbPOwcQdOS3QuWsRvaCcoECvNXmhlV5VfhKnOMSIErHe6K2inbK49C-1XcrDzPjOHuGyLsVpaGOy3nDBIiKVLOEcUBH6K2-Kf9SluXYDk_hwyV9HFOnrqxCD5ilXXzOA-5QVhyC5QtEl/s1350/mas%20barato%20por%20docena%20poster.jpg" group-title="VOD | Peliculas",Mas barato por docena
 https://archive.org/download/m4sv4rat0p0rd0cen42022/m4sv4rat0p0rd0cen42022.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fuera del mapa" tvg-logo="https://i.blogs.es/c148a3/uncharted-cartel/840_560.jpeg" group-title="VOD | Peliculas",Fuera del mapa
 http://vod.tuxchannel.tv/peliculas/720/uncharted%202022.mkv
@@ -1317,7 +1317,7 @@ http://vod.tuxchannel.tv/peliculas/720/sextuplets%202019.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Venom 2" tvg-logo="" group-title="VOD | Peliculas",Venom 2
 http://vod.tuxchannel.tv/peliculas/720/venom%20let%20there%20be%20carnage%202021.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Space jam: nueva leyenda" tvg-logo="" group-title="VOD | Peliculas",Space jam: nueva leyenda
+#EXTINF:-1 tvg-id="" tvg-name="Space jam: nueva leyenda" tvg-logo="" group-title="HBO MAX| PELICULAS",Space jam: nueva leyenda
 http://vod.tuxchannel.tv/peliculas/720/space%20jam%20a%20new%20legacy%202021.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Batman:el caballero de la noche" tvg-logo="" group-title="VOD | Peliculas",Batman:el caballero de la noche
 http://51.81.208.167/movies/Batman_El_Caballero_de_la_Noche_(2008).mp4
@@ -1380,14 +1380,68 @@ http://51.81.208.167/pelis2022/Bullet.Train.2022.lati.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El telefono negro" tvg-logo="" group-title="VOD | Peliculas",El telefono negro
 https://archive.org/download/01_20220718_20220718_2113/01.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="THOR AND LOVE" tvg-logo="" group-title="VOD | Peliculas",THOR AND LOVE
+#EXTINF:-1 tvg-id="" tvg-name="THOR AND LOVE" tvg-logo="" group-title="ESTRENOS 2022",THOR AND LOVE
 http://51.81.208.167/pelis2022/Thor.Love.and.Thunder.2022.lati.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="" group-title="VOD | Peliculas",Coco
+#EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="" group-title="DISNEY PLUS| PELICULAS",Coco
 http://51.81.208.167/movie/Coco.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Alerta roja" tvg-logo="" group-title="VOD | Peliculas",Alerta roja
 http://54.39.52.63/PELICULA/1.1/3.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Objetivo Washington" tvg-logo="" group-title="VOD | Peliculas",Objetivo Washington
 http://heinentv.ddns.me/Contenido/Peliculas/Estrenos/Objetivo_%20Washington%20D.C..mp4
+
+#EXTINF:-1 group-title="ESTRENO 2022" tvg-logo="https://pics.filmaffinity.com/C_sate_conmigo-852565093-large.jpg", Cásate Conmigo 
+https://ia802508.us.archive.org/26/items/c-454-t-3-c-0nm-1-g-0/C454%20t3%20c0nm1%20g0.ia.mp4
+
+#EXTINF:-1 group-title="ESTRENO 2022" tvg-logo="https://mx.web.img2.acsta.net/pictures/21/12/14/04/28/4658478.jpg",Ambulancia 
+https://ia601400.us.archive.org/13/items/4m-bu-14nc-14/4mBu_14nc14.mp4
+
+#EXTINF:-1 group-title="DISNEY PLUS | PELICULAS" tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2021/11/encanto-disney-poster-sinopsis.jpg", Encanto 
+https://ia601404.us.archive.org/23/items/3nc-4-nt-0/3nc4_nt0.mp4
+
+#EXTINF:-1 group-title="ESTRENO 2022" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bullet-train-757922812-large-1654676084.jpg", El Tren Bala 
+https://ia801402.us.archive.org/4/items/tr_3n/b_ull3t.mp4
+
+
+#EXTINF:-1 group-title="NETFLIX KIDS" tvg-logo="https://es.web.img2.acsta.net/pictures/210/358/21035814_20130903150925786.jpg", Turbo 
+https://ia902206.us.archive.org/27/items/tu-rb-0/TuRb0.mp4
+
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="https://diamondfilms.com/img/poster/62f3fe997859118340133ec2a.jpg", La Huerfana 2: El Origen 
+https://ia801508.us.archive.org/12/items/f-1r-5t-k-1ll/F1r5t_K1ll.mp4
+
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="https://pics.filmaffinity.com/Infinite_Storm-194351163-large.jpg", Infinite Storm 
+https://ia801507.us.archive.org/7/items/1nf-1n-1t-3.5t-0rm/1nf1n1t3.5t0rm.mp4
+
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="https://1.bp.blogspot.com/-HmxMUfvhBys/X8ttOEiZu3I/AAAAAAAAGS0/3QPvdBzMbawRLLtm4xnkJD9-AiD4EJX0wCLcBGAsYHQ/s1401/The%2BCall%2BPoster.jpg", The Call 
+https://ia801405.us.archive.org/19/items/th-3.c-4-l-l/Th3.c4_lL.mp4
+
+
+#EXTINF:-1 group-title="ESTRENOS 2022",SpiderHead 
+https://ia601509.us.archive.org/12/items/l-4-c-4b-3z-4/l4%20c4b3z4.mp4
+
+
+
+
+#EXTINF:-1 group-title="ESTRENOS 2022",DEPREDADOR: LA PRESA 
+https://ia601502.us.archive.org/31/items/p.R3_y/p.R3_y0k.mp4
+
+#EXTINF:-1,Teléfono Negro
+http://regioplay.xyz/228022/El.Telefono.Negro.SRREGIO.NET.mkv
+
+
+#EXTINF:-1 group-title="VOD | Peliculas"El Último Refugio
+https://ia801500.us.archive.org/12/items/gr-33-nl-4-nd/Gr33_nl4%20nd.mp4
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

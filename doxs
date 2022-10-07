@@ -653,7 +653,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d0fbaa8742fa3093899
 
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS",TITANIC 720p
-http://vod.tuxchannel.tv/peliculas/720/titanic.mkv
+http://vod.tuxchannel.tv/PELICULAS/720/titanic.mkv
 
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS",JURASSIC WORLD 1
@@ -1165,16 +1165,229 @@ http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_09.mkv
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="" group-title="SERIES | DRAMA",Los anillos de poder S01 E01
+#EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="" group-title="PRIMEVIDEO | SERIES",Los Anillos De Poder S01 E01
 http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.senor.de.los.anillos.Los.anillos.de.poder01.lati.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E02" tvg-logo="" group-title="SERIES | DRAMA",Los anillos de poder S01 E02
+#EXTINF:-1 tvg-id="" tvg-name="S01 E02" tvg-logo="" group-title="PRIMEVIDEO | SERIES",Los Anillos De Poder S01 E02
 http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.senor.de.los.anillos.Los.anillos.de.poder02.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E03" tvg-logo="" group-title="PRIMEVIDEO | SERIES",Los Anillos De Poder S01 E03
+http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.senor.de.los.anillos.Los.anillos.de.poder03.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E04" tvg-logo="" group-title="PRIMEVIDEO | SERIES",Los Anillos De Poder S01 E04
+http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.senor.de.los.anillos.Los.anillos.de.poder04.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E05" tvg-logo="" group-title="PRIMEVIDEO | SERIES",Los Anillos De Poder S01 E05
+http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.senor.de.los.anillos.Los.anillos.de.poder.05.lati.mp4
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Cruella" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bsApWAUqb0jeXtHPjKQ6MZOtZJ.jpg" group-title="DISNEY PLUS| PELICULAS",Cruella 2021
-http://vod.tuxchannel.tv:80/peliculas/720/cruella%202021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="E01" tvg-logo="" group-title="HBO MAX | SERIES",La casa del dragon E01
+http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x01.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E02" tvg-logo="" group-title="HBO MAX | SERIES",La casa del dragon E02
+http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x02.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E03" tvg-logo="" group-title="HBO MAX | SERIES",La casa del dragon E03
+http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x03.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E04" tvg-logo="" group-title="HBO MAX | SERIES",La casa del dragon E04
+http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x04.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E05" tvg-logo="" group-title="HBO MAX | SERIES",La casa del dragon E05
+http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x05.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E06" tvg-logo="" group-title="HBO MAX | SERIES",La casa del dragon E06
+http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x06.lati.mp4
 
+
+#EXTINF:-1 tvg-id="" tvg-name="E01" tvg-logo="" group-title="NETFLIX | SERIES",Estamos muertos E01
+https://archive.org/download/capitulo-04.3gp_202203/capitulo%2001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E02" tvg-logo="" group-title="NETFLIX | SERIES",Estamos muertos E02
+https://archive.org/download/capitulo-04.3gp_202203/capitulo%2002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E03" tvg-logo="" group-title="NETFLIX | SERIES",Estamos muertos E03
+https://archive.org/download/capitulo-04.3gp_202203/capitulo%2003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E04" tvg-logo="" group-title="NETFLIX | SERIES",Estamos muertos E04
+https://archive.org/download/capitulo-04.3gp_202203/capitulo%2004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E05" tvg-logo="" group-title="NETFLIX | SERIES",Estamos muertos E05
+https://archive.org/download/capitulo-04.3gp_202203/capitulo%2005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E06" tvg-logo="" group-title="NETFLIX | SERIES",Estamos muertos E06
+https://archive.org/download/capitulo-04.3gp_202203/capitulo%2006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E07" tvg-logo="" group-title="NETFLIX | SERIES",Estamos muertos E07
+https://archive.org/download/capitulo-04.3gp_202203/capitulo%2007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E08" tvg-logo="" group-title="NETFLIX | SERIES",Estamos muertos E08
+https://archive.org/download/capitulo-04.3gp_202203/capitulo%2008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E09" tvg-logo="" group-title="NETFLIX | SERIES",Estamos muertos E09
+https://archive.org/download/capitulo-04.3gp_202203/capitulo%2009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E10" tvg-logo="" group-title="NETFLIX | SERIES",Estamos muertos E10
+https://archive.org/download/capitulo-04.3gp_202203/capitulo%2010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E11" tvg-logo="" group-title="NETFLIX | SERIES",Estamos muertos E11
+https://archive.org/download/capitulo-04.3gp_202203/capitulo%2011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E12" tvg-logo="" group-title="NETFLIX | SERIES",Estamos muertos E12
+https://archive.org/download/capitulo-04.3gp_202203/capitulo%2012.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="E1" tvg-logo="" group-title="DISNEY PLUS | SERIES",Ella Hulk E01
+http://51.81.208.167/series2022/She.Hulk.abogada.Hulka/She.Hulk.abogada.Hulka.1x01.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E2" tvg-logo="" group-title="DISNEY PLUS | SERIES",Ella Hulk E02
+http://51.81.208.167/series2022/She.Hulk.abogada.Hulka/She.Hulk.abogada.Hulka.1x02.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E3" tvg-logo="" group-title="DISNEY PLUS | SERIES",Ella Hulk E03
+http://51.81.208.167/series2022/She.Hulk.abogada.Hulka/She.Hulk.abogada.Hulka.1x03.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E4" tvg-logo="" group-title="DISNEY PLUS | SERIES",Ella Hulk E04
+http://51.81.208.167/series2022/She.Hulk.abogada.Hulka/She.Hulk.abogada.Hulka.1x04.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E5" tvg-logo="" group-title="DISNEY PLUS | SERIES",Ella Hulk E05
+http://51.81.208.167/series2022/She.Hulk.abogada.Hulka/She.Hulk.abogada.Hulka.1x05.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E6" tvg-logo="" group-title="DISNEY PLUS | SERIES",Ella Hulk E06
+http://51.81.208.167/series2022/She.Hulk.abogada.Hulka/She.Hulk.abogada.Hulka.1x06.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E7" tvg-logo="" group-title="DISNEY PLUS | SERIES",Ella Hulk E07
+http://51.81.208.167/series2022/She.Hulk.abogada.Hulka/She.Hulk.abogada.Hulka.1x07.lati.mp4
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Cruella" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bsApWAUqb0jeXtHPjKQ6MZOtZJ.jpg" group-title="DISNEY PLUS| PELICULAS",CRUELLA 2021	
+http://vod.tuxchannel.tv:80/PELICULAS/720/cruella%202021.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Estamos vivos" tvg-logo="https://i.pinimg.com/originals/41/9b/2f/419b2f4bd5dbd5cdf7262f0e7c80f994.jpg" group-title="NETFLIX | Peliculas",ESTAMOS VIVOS 
+http://vod.tuxchannel.tv/PELICULAS/720/saraitda%20alive%202020.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Mulan" tvg-logo="https://https://es.web.img3.acsta.net/pictures/19/12/16/12/16/5667446.jpg" group-title="DISNEY PLUS | PELICULAS",MULAN 2020
+http://vod.tuxchannel.tv/PELICULAS/720/mulan%202020.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Gatos y perros" tvg-logo="" group-title="HBO MAX | PELICULAS",COMO PERROS Y GATOS 3
+http://vod.tuxchannel.tv/PELICULAS/720/cats%20and%20dogs%203%20paws%20unite%202020.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="El campamento" tvg-logo="" group-title="NETFLIX | ROMANCE",EL CAMPAMENTO DE MI VIDA
+http://vod.tuxchannel.tv/peliculas/720/a%20week%20away%202021.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="El protector" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/14/05/09/15/57/155229.jpg" group-title="NETFLIX | Peliculas",EL PROTECTOR
+http://vod.tuxchannel.tv:80/peliculas/720/the%20marksman%202021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fatal" tvg-logo="" group-title="NETFLIX | Peliculas",FATAL
+http://vod.tuxchannel.tv/peliculas/720/fatale%202020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla vs Kong" tvg-logo="https://es.web.img2.acsta.net/pictures/21/03/15/18/35/3097205.jpg" group-title="HBO MAX | Peliculas",GODZILLA VS KONG
+http://vod.tuxchannel.tv:80/peliculas/720/godzilla%20vs%20kong%202021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La batalla" tvg-logo="" group-title="NETFLIX | PELICULAS",LA BATALLA DE KANDESH
+http://vod.tuxchannel.tv/peliculas/720/the%20outpost%202020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un alien robó mi cuerpo" tvg-logo="" group-title="COMEDIA| Peliculas",Un alien robó mi cuerpo
+http://vod.tuxchannel.tv:80/peliculas/720/aliens%20stole%20my%20body%202020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor garantizado" tvg-logo="" group-title="NETFLIX | Peliculas",Amor garantizado
+http://vod.tuxchannel.tv/peliculas/720/love%20guaranteed%202020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caos" tvg-logo="" group-title="VOD | Peliculas",Caos
+http://vod.tuxchannel.tv:80/peliculas/720/chaos%20walking%202021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El dia del fin del mundo" tvg-logo="" group-title="Peliculas",EL DIA DEL FIN DEL MUNDO
+http://vod.tuxchannel.tv:80/peliculas/720/greenland%202020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry" tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/25/13/40/3112646.jpg" group-title="HBO MAX | Peliculas",Tom y Jerry
+http://vod.tuxchannel.tv/peliculas/720/tom%20and%20jerry%202021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor de cuento" tvg-logo="" group-title="NETFLIX | Peliculas",AMOR DE CUENTO
+http://vod.tuxchannel.tv:80/peliculas/720/good%20on%20paper%202021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor garantizado" tvg-logo="" group-title="VOD | Peliculas",Amor garantizado
+http://vod.tuxchannel.tv/peliculas/720/love%20guaranteed%202020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prometeus" tvg-logo="" group-title="VOD | Peliculas",Prometeus
+https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool" tvg-logo="" group-title="VOD | Peliculas",Deadpool
+https://ia800108.us.archive.org/24/items/DeSRREGIO_201802/DeSRREGIO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saw 8" tvg-logo="" group-title="VOD | Peliculas",Saw 8
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rapidos y furiosos 9" tvg-logo="https://mx.web.img3.acsta.net/pictures/21/04/14/17/28/5059871.jpg" group-title="VOD | Peliculas",Rapidos y furiosos 9
+https://ia601402.us.archive.org/31/items/fast-furious-9-areshd/Fast%20%26%20Furious%209%20%E2%80%93%20ARESHD.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas" tvg-logo="https://pics.filmaffinity.com/Cazafantasmas-698795949-large.jpg" group-title="VOD | Peliculas",Cazafantasmas
+https://ia601501.us.archive.org/22/items/cazafantasmas-mas-alla-areshd/Cazafantasmas%20M%C3%A1s%20all%C3%A1%20%E2%80%93%20ARESHD.mp4
+#EXTINF:-1 tvg-id="" tvg-name="300 2da parte" tvg-logo="https://es.web.img3.acsta.net/pictures/14/02/17/14/10/345306.jpg" group-title="VOD | Peliculas",300 2da parte
+http://vod.tuxchannel.tv/peliculas/720/300%20rise%20of%20an%20empire.mkv
+#EXTINF:-1 tvg-id="" tvg-name="300" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/67/71/17/20027466.jpg" group-title="VOD | Peliculas",300
+http://vod.tuxchannel.tv/peliculas/720/300.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rascacielos" tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/23/10/36/0134677.jpg" group-title="VOD | Peliculas",Rascacielos
+http://vod.tuxchannel.tv/peliculas/720/el%20rascacielos.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rampage" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/18/04/03/11/10/1695640.jpg" group-title="VOD | Peliculas",Rampage
+http://vod.tuxchannel.tv/peliculas/720/rampage.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Terremoto" tvg-logo="https://es.web.img3.acsta.net/pictures/15/05/05/11/56/026812.jpg" group-title="VOD | Peliculas",Terremoto
+http://vod.tuxchannel.tv/peliculas/720/terretomo%20la%20falla%20de%20san%20andres.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Geotormenta" tvg-logo="https://es.web.img3.acsta.net/pictures/17/10/02/09/55/3526292.jpg" group-title="VOD | Peliculas",Geotormenta
+http://vod.tuxchannel.tv/peliculas/720/geostorm.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viuda negra" tvg-logo="https://c8.alamy.com/compes/2fnk54p/black-widow-cartel-de-caracter-estadounidense-con-fecha-de-lanzamiento-actualizada-del-9-de-julio-de-2021-rachel-weisz-como-melina-vostokoff-2021-walt-disney-studios-motion-pictures-marvel-studios-courtesy-everett-collection-2fnk54p.jpg" group-title="VOD | Peliculas",Viuda negra
+http://vod.tuxchannel.tv:80/peliculas/720/black%20widow%202021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Asesino sin memoria" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/39143-745823-20220413054853.jpg" group-title="VOD | Peliculas",Asesino sin emoria
+http://vod.tuxchannel.tv/peliculas/720/memory%202022.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic world dominion" tvg-logo="https://es.web.img2.acsta.net/pictures/22/04/25/10/39/2475018.jpg" group-title="VOD | Peliculas",Jurassic world dominion
+https://archive.org/download/jur4ccicw0rd-doml-2022/jur4ccicw0rd-doml-2022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La ciudad perdida" tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/28/16/18/2106533.jpg" group-title="VOD | Peliculas",La ciudad perdida
+
+#EXTINF:-1 tvg-id="" tvg-name="Mas barato por docena" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj14ESObyRC36US92HWgZDFCkgVvryCmoJZXEMwC9MgjXYFZbPOwcQdOS3QuWsRvaCcoECvNXmhlV5VfhKnOMSIErHe6K2inbK49C-1XcrDzPjOHuGyLsVpaGOy3nDBIiKVLOEcUBH6K2-Kf9SluXYDk_hwyV9HFOnrqxCD5ilXXzOA-5QVhyC5QtEl/s1350/mas%20barato%20por%20docena%20poster.jpg" group-title="VOD | Peliculas",Mas barato por docena
+https://archive.org/download/m4sv4rat0p0rd0cen42022/m4sv4rat0p0rd0cen42022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fuera del mapa" tvg-logo="https://i.blogs.es/c148a3/uncharted-cartel/840_560.jpeg" group-title="VOD | Peliculas",Fuera del mapa
+http://vod.tuxchannel.tv/peliculas/720/uncharted%202022.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Virus 32" tvg-logo="https://pics.filmaffinity.com/Virus_32-812042263-large.jpg" group-title="VOD | Peliculas",Virus 32
+https://archive.org/download/01_20220423_20220423_1740/01.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Joker" tvg-logo="" group-title="VOD | Peliculas",Joker
+http://vod.tuxchannel.tv/peliculas/720/joker%202019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sextillizos" tvg-logo="" group-title="VOD | Peliculas",Sextillizos
+http://vod.tuxchannel.tv/peliculas/720/sextuplets%202019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Megalodon" tvg-logo="" group-title="VOD | Peliculas",Megalodon
+
+#EXTINF:-1 tvg-id="" tvg-name="Venom 2" tvg-logo="" group-title="VOD | Peliculas",Venom 2
+http://vod.tuxchannel.tv/peliculas/720/venom%20let%20there%20be%20carnage%202021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Space jam: nueva leyenda" tvg-logo="" group-title="VOD | Peliculas",Space jam: nueva leyenda
+http://vod.tuxchannel.tv/peliculas/720/space%20jam%20a%20new%20legacy%202021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman:el caballero de la noche" tvg-logo="" group-title="VOD | Peliculas",Batman:el caballero de la noche
+http://51.81.208.167/movies/Batman_El_Caballero_de_la_Noche_(2008).mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman asciende" tvg-logo="" group-title="VOD | Peliculas",Batman asciende
+http://51.81.208.167/movies/Batman_El_caballero_de_la_noche_asciende_(2012).mp4
+#EXTINF:-1 tvg-id="" tvg-name="Que pasó ayer 1" tvg-logo="" group-title="VOD | Peliculas",Que pasó ayer 1
+http://vod.tuxchannel.tv/peliculas/720/the%20hangover.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Que pasó ayer 2" tvg-logo="" group-title="VOD | Peliculas",Que pasó ayer 2
+http://vod.tuxchannel.tv/peliculas/720/the%20hangover%20part%20II.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Que pasó ayer 3" tvg-logo="" group-title="VOD | Peliculas",Que pasó ayer 3
+http://vod.tuxchannel.tv/peliculas/720/the%20hangover%20part%20III.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Correr o morir 1" tvg-logo="" group-title="VOD | Peliculas",Correr o morir 1
+https://archive.org/download/mz_20200505/Maze1/MZ.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Correr o morir 2" tvg-logo="" group-title="VOD | Peliculas",Correr o morir 2
+https://archive.org/download/maze.-2/Maze2/MAZE.2.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Correr o morir 3" tvg-logo="" group-title="VOD | Peliculas",Correr o morir 3
+https://archive.org/download/maz-3/MZ3/MAz3.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Transformers 1" tvg-logo="" group-title="VOD | Peliculas",Transformers 1
+http://archive.org/download/west_000/TR4NSF0R.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todopoderoso 1" tvg-logo="" group-title="VOD | Peliculas",Todopoderoso 1
+http://ia801404.us.archive.org/24/items/terugi_newairmail_14/14.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spiderman lejos de casa" tvg-logo="" group-title="VOD | Peliculas",Spiderman lejos de casa
+http://archive.org/download/sehf_20200103/Sehf.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Depredador: la presa" tvg-logo="" group-title="VOD | Peliculas",Depredador: la presa
+http://84.16.229.242:91/Uploads/Ciencia-Ficcion/Depredador-La-Presa-2022-lat.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragonball evolution" tvg-logo="" group-title="VOD | Peliculas",Dragonball evolution
+
+#EXTINF:-1 tvg-id="" tvg-name="Alien vs Depredador" tvg-logo="" group-title="VOD | Peliculas",Alien vs Depredador
+http://51.81.208.167/movies/Alien%20vs%20predator%20(2004).mp4
+#EXTINF:-1 tvg-id="" tvg-name="Van Helsin:cazador de vampiros" tvg-logo="" group-title="VOD | Peliculas",Van Helsin:cazador de vampiros
+
+#EXTINF:-1 tvg-id="" tvg-name="Titanic" tvg-logo="" group-title="VOD | Peliculas",Titanic
+http://vod.tuxchannel.tv/peliculas/720/titanic.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El transportador 1" tvg-logo="" group-title="VOD | Peliculas",El transportador 1
+http://51.81.208.167/movies/El_Transportador_(2002).mp4
+#EXTINF:-1 tvg-id="" tvg-name="El transportador 2" tvg-logo="" group-title="VOD | Peliculas",El transportador 2
+http://51.81.208.167/movies/El_Transportador_2_(2005).mp4
+#EXTINF:-1 tvg-id="" tvg-name="El transportador 3" tvg-logo="" group-title="VOD | Peliculas",El transportador 3
+http://51.81.208.167/movies/El_Transportador_3_(2008).mp4
+#EXTINF:-1 tvg-id="" tvg-name="El transportador 4" tvg-logo="" group-title="VOD | Peliculas",El transportador 4
+http://51.81.208.167/movies/El_Transportador_4_(2015).mp4
+#EXTINF:-1 tvg-id="" tvg-name="Plan de escape" tvg-logo="" group-title="VOD | Peliculas",Plan de escape
+http://51.81.208.167/movies/Escape_plan_(2013).mp4
+#EXTINF:-1 tvg-id="" tvg-name="Estacion zombie" tvg-logo="" group-title="VOD | Peliculas",Estacion zombie
+http://51.81.208.167/movies/Estaci%c3%b3n_Zombie_(2016).mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerra mundial Z" tvg-logo="" group-title="VOD | Peliculas",Guerra mundial Z
+http://51.81.208.167/movies/Guerra_Mundial_Z_(2013).mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y las reliquias de la muerte_parte 2" tvg-logo="" group-title="VOD | Peliculas",Harry Potter y las reliquias de la muerte_parte 2
+
+#EXTINF:-1 tvg-id="" tvg-name="Inframundo 1" tvg-logo="" group-title="VOD | Peliculas",Inframundo 1
+http://51.81.208.167/movies/Underworld_(2003).mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inframundo 2" tvg-logo="" group-title="VOD | Peliculas",Inframundo 2
+http://51.81.208.167/movies/Underworld_Awakening_(2012).mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inframundo 3" tvg-logo="" group-title="VOD | Peliculas",Inframundo 3
+http://51.81.208.167/movies/Underworld_Evolution_(2006).mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inframundo 4" tvg-logo="" group-title="VOD | Peliculas",Inframundo 4
+http://51.81.208.167/movies/Underworld_blood_war_.(2016).mp4
+#EXTINF:-1 tvg-id="" tvg-name="TREN BALA" tvg-logo="" group-title="VOD | Peliculas",TREN BALA
+http://51.81.208.167/pelis2022/Bullet.Train.2022.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El telefono negro" tvg-logo="" group-title="VOD | Peliculas",El telefono negro
+https://archive.org/download/01_20220718_20220718_2113/01.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="THOR AND LOVE" tvg-logo="" group-title="VOD | Peliculas",THOR AND LOVE
+http://51.81.208.167/pelis2022/Thor.Love.and.Thunder.2022.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="" group-title="VOD | Peliculas",Coco
+http://51.81.208.167/movie/Coco.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alerta roja" tvg-logo="" group-title="VOD | Peliculas",Alerta roja
+http://54.39.52.63/PELICULA/1.1/3.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Objetivo Washington" tvg-logo="" group-title="VOD | Peliculas",Objetivo Washington
+http://heinentv.ddns.me/Contenido/Peliculas/Estrenos/Objetivo_%20Washington%20D.C..mp4
 
 
 

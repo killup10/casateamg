@@ -1,2 +1,226 @@
-#EXTINF:0,GOPERU
-http://190.43.92.98:8000/play/a0h9/index.m3u8
+#EXTM3U
+#EXTINF:0,LATINA
+#EXTGRP:EN VIVO
+http://187.102.209.92:9010/play/a04x/index.m3u8
+#EXTINF:0,LATINA SD
+#EXTGRP:EN VIVO
+http://190.187.154.156:8000/play/a079/index.m3u8
+#EXTINF:0,MOVISTAR PLUS
+#EXTGRP:EN VIVO
+http://38.56.119.119:8000/play/a039/index.m3u8
+#EXTINF:0,AMERICA TV
+#EXTGRP:EN VIVO
+http://190.187.154.156:8000/play/a078/index.m3u8
+#EXTINF:0,MOVISTAR DEPORTES
+#EXTGRP:EN VIVO
+http://190.116.90.43:8000/play/a00x      	
+#EXTINF:0,Movistar Deportes o2
+#EXTGRP:EN VIVO
+http://190.116.90.43:8000/play/a00x
+#EXTINF:0,PANAMERICANA
+#EXTGRP:EN VIVO
+http://38.56.220.254:8000/play/a009/index.m3u8
+#EXTINF:0,Paanamericana op2
+#EXTGRP:EN VIVO
+http://38.56.119.119:8000/play/a038/index.m3u8
+#EXTINF:0,CANAL N
+#EXTGRP:EN VIVO
+http://38.43.150.126:8000/play/a04d/index.m3u8
+#EXTINF:0,ATV HD
+#EXTGRP:EN VIVO
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
+#EXTINF:0,ATV HD op2
+#EXTGRP:EN VIVO
+http://190.187.154.156:8000/play/a0dm/index.m3u8
+#EXTINF:0,RPP TV
+#EXTGRP:EN VIVO
+http://187.102.209.92:9010/play/a05p/index.m3u8
+#EXTINF:0,Gol Perú
+#EXTGRP:EN VIVO
+http://190.116.90.43:8000/play/a012
+#EXTINF:0,Gol Perú Op2
+#EXTGRP:EN VIVO
+http://190.61.55.186:1010/play/a010/index.m3u8
+#EXTINF:0,WILLAX
+#EXTGRP:EN VIVO
+http://190.187.154.156:8000/play/a0ds/index.m3u8
+#EXTINF:0,WILLAX op2
+#EXTGRP:EN VIVO
+http://190.187.154.156:8000/play/a0ds/index.m3u8
+#EXTINF:0,Canal de las estrellas
+#EXTGRP:EN VIVO
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:0,TLNOVELAS
+#EXTGRP:EN VIVO
+http://190.187.154.156:8000/play/a0c1/index.m3u8
+#EXTINF:0,KANAL D DRAMA HD
+#EXTGRP:EN VIVO
+http://190.187.154.156:8000/play/a06i/index.m3u8
+#EXTINF:0,PASIONES HD
+#EXTGRP:EN VIVO
+http://38.56.119.119:8000/play/a01m/index.m3u8
+#EXTINF:0,TLC
+#EXTGRP:EN VIVO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/724
+#EXTINF:0,TNT
+#EXTGRP:EN VIVO
+http://190.187.154.156:8000/play/a067/index.m3u8
+#EXTINF:0,TNTSERIES HD
+#EXTGRP:EN VIVO
+http://177.53.155.236:8000/play/a099/index.m3u8
+#EXTINF:0,AMC
+#EXTGRP:EN VIVO
+http://190.121.153.89:8000/play/a03c/index.m3u8
+#EXTINF:0,WARNER CHANEL HD
+#EXTGRP:EN VIVO
+http://168.228.194.32:48091/play/a085/index.m3u8
+#EXTINF:0,STAR CHANEL FHD
+#EXTGRP:EN VIVO
+http://190.60.40.37:12500/play/a023/index.m3u8
+#EXTINF:0,FX HD
+#EXTGRP:EN VIVO
+http://170.254.234.244:8000/play/a04y/index.m3u8
+#EXTINF:0,SUN CHANNEL
+#EXTGRP:EN VIVO
+http://190.102.139.240:8900/play/a0nb/index.m3u8
+#EXTINF:0,ID DISCOVERY
+#EXTGRP:EN VIVO
+http://190.90.251.194:8921/play/a00i/index.m3u8
+#EXTINF:0,STAR TVE HD
+#EXTGRP:EN VIVO
+http://190.187.154.156:8000/play/a06o/index.m3u8
+#EXTINF:0,TCM
+#EXTGRP:EN VIVO
+http://45.5.118.154:16000/play/a0l9/index.m3u8
+#EXTINF:0,SPACE
+#EXTGRP:EN VIVO
+http://190.90.251.194:8921/play/a007/index.m3u8
+#EXTINF:0,TELEHIT MUSIC
+#EXTGRP:EN VIVO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/653
+#EXTINF:0,AZ CINEMA
+#EXTGRP:EN VIVO
+http://38.56.118.88:4000/play/a029/index.m3u8
+#EXTINF:0,Paramount Network
+#EXTGRP:EN VIVO
+http://38.56.118.88:4000/play/a026/index.m3u8
+#EXTINF:0,CLOVER
+#EXTGRP:EN VIVO
+http://190.187.154.156:8000/play/a06t/index.m3u8
+#EXTINF:0,EUROPA EUROPA
+#EXTGRP:EN VIVO
+http://170.254.172.10:8000/play/a03z/index.m3u8
+#EXTINF:0,FILM  ARTS
+#EXTGRP:EN VIVO
+http://45.166.92.22:58001/play/a00o/index.m3u8
+#EXTINF:0,AXN
+#EXTGRP:EN VIVO
+http://45.5.119.155:8000/play/a0iy/index.m3u8
+#EXTINF:0,CINECANAL HD
+#EXTGRP:EN VIVO
+http://45.166.92.22:58001/play/a04b/index.m3u8
+#EXTINF:0,Comedy Central
+#EXTGRP:EN VIVO
+http://190.90.251.194:8921/play/a00e/index.m3u8
+#EXTINF:0,Cinemax
+#EXTGRP:EN VIVO
+http://190.60.40.37:12500/play/a0ai/index.m3u8
+#EXTINF:0,Discovery
+#EXTGRP:EN VIVO
+http://38.56.118.88:4000/play/a031/index.m3u8
+#EXTINF:0,Animal Planet
+#EXTGRP:EN VIVO
+http://190.60.40.37:12500/play/a01b/index.m3u8
+#EXTINF:0,National Geographic
+#EXTGRP:EN VIVO
+http://190.119.178.46:8000/play/a04i/index.m3u8  
+#EXTINF:0,Love Nature
+#EXTGRP:EN VIVO
+http://190.90.251.194:8921/play/a00p/index.m3u8
+#EXTINF:0,Discovery Turbo
+#EXTGRP:EN VIVO
+http://190.90.251.194:8921/play/a01l/index.m3u8
+#EXTINF:0,Discovery HyH
+#EXTGRP:EN VIVO
+http://190.60.40.37:12500/play/a010/index.m3u8
+#EXTINF:0,Saber Mas
+#EXTGRP:EN VIVO
+https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
+#EXTINF:0,Food Network
+#EXTGRP:EN VIVO
+http://190.90.251.194:8921/play/a00n/index.m3u8
+#EXTINF:0,HGTV
+#EXTGRP:EN VIVO
+http://190.90.251.194:8921/play/a01k/index.m3u8
+#EXTINF:0,Mas Chic
+#EXTGRP:EN VIVO
+http://190.90.251.194:8921/play/a013/index.m3u8
+#EXTINF:0,USMP TV
+#EXTGRP:EN VIVO
+http://191.97.60.193:10000/play/a00d/index.m3u8
+#EXTINF:0,Cartoon Network
+#EXTGRP:EN VIVO
+http://45.5.117.172:8100/play/a0l0/index.m3u8
+#EXTINF:0,Discovery Kids
+#EXTGRP:EN VIVO
+http://190.187.154.156:8000/play/a06h/index.m3u8
+#EXTINF:0,Cartoonito
+#EXTGRP:EN VIVO
+http://190.61.55.186:1010/play/714/index.m3u8
+#EXTINF:0,NICK
+#EXTGRP:EN VIVO
+http://190.90.251.194:8921/play/a00a/index.m3u8
+#EXTINF:0,Disney Channel
+#EXTGRP:EN VIVO
+http://190.90.251.194:8921/play/a00b/index.m3u8
+#EXTINF:0,Disney Junior
+#EXTGRP:EN VIVO
+http://181.78.21.60:16123/play/ch05
+#EXTINF:0,Lolly Kids
+#EXTGRP:EN VIVO
+http://190.60.40.37:12500/play/a09c/index.m3u8
+#EXTINF:0,ToonCast
+#EXTGRP:EN VIVO
+http://138.59.177.34:8000/play/a04x/index.m3u8
+#EXTINF:0,FOX Sports 2
+#EXTGRP:EN VIVO
+http://190.90.251.194:8921/play/a03h/index.m3u8
+#EXTINF:0,FOX Sports 3
+#EXTGRP:EN VIVO
+http://38.56.118.88:4000/play/a017/index.m3u8
+#EXTINF:0,ESPN
+#EXTGRP:EN VIVO
+http://190.187.154.156:8000/play/a04w/index.m3u8
+#EXTINF:0,ESPN 2
+#EXTGRP:EN VIVO
+http://190.90.251.194:8921/play/a009/index.m3u8
+#EXTINF:0,ESPN 3
+#EXTGRP:EN VIVO
+http://190.90.251.194:8921/play/a00c/index.m3u8
+#EXTINF:0,ESPN 4 
+#EXTGRP:EN VIVO
+http://190.90.251.194:8921/play/a045/index.m3u8
+#EXTINF:0,ESPN EXTRA
+#EXTGRP:EN VIVO
+http://190.187.154.156:8000/play/a06p/index.m3u8
+#EXTINF:0,Fitmaxx TV
+#EXTGRP:EN VIVO
+https://marine2.miplay.cl/fitmaxx/playlist.m3u8
+#EXTINF:0,UCL
+#EXTGRP:EN VIVO
+http://181.129.173.98:8200/play/a07i/index.m3u8
+#EXTINF:0,CNN CHILE
+#EXTGRP:EN VIVO
+http://177.234.247.66:8888/play/a004/index.m3u8
+#EXTINF:0,CNN ESPAÑOL
+#EXTGRP:EN VIVO
+http://190.61.57.2:1010/play/a04o/index.m3u8
+#EXTINF:0,CNN INTERNACIONAL
+#EXTGRP:EN VIVO
+http://magmas5.com:8000/sunlink/dFIdo0UaMM/135657
+#EXTINF:0,MTV
+#EXTGRP:EN VIVO
+http://170.254.234.244:8000/play/a066/index.m3u8
+#EXTINF:0,GOL TV
+#EXTGRP:EN VIVO
+http://38.56.118.88:4000/play/a02j/index.m3u8
